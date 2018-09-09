@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>szKMLdata</name>
+
+<StyleMap id="poly-StART-from-2021"><Pair><key>normal</key><styleUrl>#poly-StART-from-2021-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#poly-StART-from-2021-highlight</styleUrl></Pair></StyleMap>
+<Style id="poly-StART-from-2021-normal"><LineStyle><color>ff2dc0fb</color><width>3.401</width></LineStyle><PolyStyle><color>302dc0fb</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+<Style id="poly-StART-from-2021-highlight"><LineStyle><color>ff2dc0fb</color><width>5.1015</width></LineStyle><PolyStyle><color>302dc0fb</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+<Placemark><name>StART project from 2021</name><description>Avail 2021</description><styleUrl>#poly-StART-from-2021</styleUrl>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>
+				-0.0906421,51.5815895,0
+                -0.0913556,51.5815528,0
+                -0.0911786,51.5803261,0
+                -0.0908889,51.5803261,0
+                -0.0903685,51.5803795,0
+                -0.0903739,51.5811428,0
+                -0.0904114,51.5812395,0
+                -0.0906207,51.5813495,0
+                -0.0906421,51.5815895,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+
+<StyleMap id="poly-StART-from-2023"><Pair><key>normal</key><styleUrl>#poly-StART-from-2023-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#poly-StART-from-2023-highlight</styleUrl></Pair></StyleMap>				
+<Style id="poly-StART-from-2023-normal"><LineStyle><color>ffb73a67</color><width>3.801</width></LineStyle><PolyStyle><color>30b73a67</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+<Style id="poly-StART-from-2023-highlight"><LineStyle><color>ffb73a67</color><width>5.7015</width></LineStyle><PolyStyle><color>30b73a67</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+<Placemark><name>StART project - available 2023</name><description>Avail 2023</description><styleUrl>#poly-StART-from-2023</styleUrl>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>
+				-0.0906636,51.5788793,0
+                -0.0899166,51.5789831,0
+                -0.0898415,51.5797765,0
+                -0.0890529,51.5797632,0
+                -0.0889563,51.5814133,0
+                -0.0888759,51.5814099,0
+                -0.0901955,51.5815733,0
+                -0.0906421,51.5815895,0
+                -0.0906207,51.5813495,0
+                -0.0904114,51.5812395,0
+                -0.0903739,51.5811428,0
+                -0.0903685,51.5803795,0
+                -0.0908889,51.5803261,0
+                -0.0911786,51.5803261,0
+                -0.0912322,51.5802528,0
+                -0.0911249,51.5797994,0
+                -0.090964,51.5797594,0
+                -0.0909747,51.5790594,0
+                -0.0907387,51.5790927,0
+                -0.0906636,51.5788793,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+
+<StyleMap id="poly-Hospital-owned"><Pair><key>normal</key><styleUrl>#poly-Hospital-owned-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#poly-Hospital-owned-highlight</styleUrl></Pair></StyleMap>
+<Style id="poly-Hospital-owned-normal"><LineStyle><color>ff0051e6</color><width>5.301</width></LineStyle><PolyStyle><color>4d0051e6</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+<Style id="poly-Hospital-owned-highlight"><LineStyle><color>ff0051e6</color><width>7.9515</width></LineStyle><PolyStyle><color>4d0051e6</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+<Placemark><name>BEH NHS Hospital</name><description>HOSPITAL OWNED</description><styleUrl>#poly-Hospital-owned</styleUrl>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>
+				-0.0889563,51.5814133,0
+                -0.0890529,51.5797632,0
+                -0.0898415,51.5797765,0
+                -0.0899166,51.5789831,0
+                -0.0870467,51.5791546,0
+                -0.0865639,51.5803347,0
+                -0.0874544,51.5804213,0
+                -0.0874275,51.580678,0
+                -0.0867784,51.5806047,0
+                -0.08658,51.581118,0
+                -0.0889563,51.5814133,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+
+<StyleMap id="poly-StART-available-now"><Pair><key>normal</key><styleUrl>#poly-StART-available-now-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#poly-StART-available-now-highlight</styleUrl></Pair></StyleMap>
+<Style id="poly-StART-available-now-normal"><LineStyle><color>ff387109</color><width>4.201</width></LineStyle>    <PolyStyle><color>4d387109</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+<Style id="poly-StART-available-now-highlight"><LineStyle><color>ff387109</color><width>6.3015</width></LineStyle><PolyStyle><color>4d387109</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+				
+<Placemark><name>StART project available now</name><description>Available now</description><styleUrl>#poly-StART-available-now</styleUrl>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>
+			  	-0.0925386,51.5814601,0
+                -0.0926513,51.5811968,0
+                -0.0930429,51.5811768,0
+                -0.0926245,51.5786732,0
+                -0.0906636,51.5788793,0
+                -0.0907387,51.5790927,0
+                -0.0909747,51.5790594,0
+                -0.090964,51.5797594,0
+                -0.0911249,51.5797994,0
+                -0.0912322,51.5802528,0
+                -0.0911786,51.5803261,0
+                -0.0911785,51.5803762,0
+                -0.0912698,51.5809995,0
+                -0.0913019,51.5812028,0
+                -0.0913556,51.5815528,0
+                -0.0925386,51.5814601,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+			  
+<Placemark><name>Original Hospital Grounds</name><description>Original Grounds</description><styleUrl>#poly-87CEAC-12400-77-nodesc</styleUrl>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>
+				-0.0926021,51.5814601,0
+                -0.0925726,51.5811867,0
+                -0.0930312,51.5811667,0
+                -0.0926021,51.5786566,0
+                -0.0874281,51.5790816,0
+                -0.0873878,51.5790333,0
+                -0.0870526,51.5790449,0
+                -0.0865081,51.5803884,0
+                -0.0872752,51.580405,0
+                -0.0872591,51.5806467,0
+                -0.0866985,51.5805767,0
+                -0.0865269,51.5811217,0
+                -0.0900566,51.5815618,0
+                -0.0902712,51.5815768,0
+                -0.0905716,51.5815851,0
+                -0.0905716,51.5815584,0
+                -0.090636,51.5815534,0
+                -0.0906421,51.5815895,0
+                -0.0915292,51.5815451,0
+                -0.0917599,51.5815334,0
+                -0.0926021,51.5814601,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>	  
+			  
+</Document></kml>
