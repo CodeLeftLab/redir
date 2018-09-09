@@ -41,10 +41,9 @@
                 -0.0907387,51.5790927,0
                 -0.0906636,51.5788793,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
 
+<StyleMap id="poly-Hospital-owned"><Pair><key>normal</key><styleUrl>#poly-Hospital-owned-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#poly-Hospital-owned-highlight</styleUrl></Pair></StyleMap>
 <Style id="poly-Hospital-owned-normal"><LineStyle><color>ff0051e6</color><width>5.301</width></LineStyle><PolyStyle><color>4d0051e6</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
 <Style id="poly-Hospital-owned-highlight"><LineStyle><color>ff0051e6</color><width>7.9515</width></LineStyle><PolyStyle><color>4d0051e6</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
-<StyleMap id="poly-Hospital-owned"><Pair><key>normal</key><styleUrl>#poly-Hospital-owned-normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#poly-Hospital-owned-highlight</styleUrl></Pair></StyleMap>
-			 
 <Placemark><name>BEH NHS Hospital</name><description>HOSPITAL OWNED</description><styleUrl>#poly-Hospital-owned</styleUrl>
 <Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate><coordinates>
 				-0.0889563,51.5814133,0
