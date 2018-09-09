@@ -4,10 +4,6 @@
 <Style id="poly-StART-from-2021-normal"><LineStyle><color>ff2dc0fb</color><width>3.401</width></LineStyle><PolyStyle><color>302dc0fb</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
 <Style id="poly-StART-from-2021-highlight"><LineStyle><color>ff2dc0fb</color><width>5.1015</width></LineStyle><PolyStyle><color>302dc0fb</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
 	
-    <Placemark><name>Google West Campus 3</name><styleUrl>#west_campus_style</styleUrl>
-		<ExtendedData><Data name="video"><value><![CDATA[<iframe width="480" height="360" src="https://www.youtube.com/embed/0hhiEjf7_NA" frameborder="0" allowfullscreen></iframe><br><br>]]></value></Data></ExtendedData>
-		<Point><coordinates>-122.0922532985281,37.42301710721216,0</coordinates></Point></Placemark>
-		
 		<Placemark><name>StART project from 2021</name><description>Avail 2021</description><styleUrl>#poly-StART-from-2021</styleUrl>
 		<Polygon>  <outerBoundaryIs>    <LinearRing>      <tessellate>1</tessellate>      <coordinates>
 				-0.0906421,51.5815895,0
