@@ -3,7 +3,8 @@ var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
 case 'a22'	:ff_targ='https://www.dropbox.com/s/q8fgul2voa32jja/190509Healthy%20Streets%20St%20Ann%27s%20-%20Pitch.docx?dl=0';				
 ff_targ_text='Healthy Streets St Anns - pitch'; break; // bit.ly/stm22 https://codeleftlab.github.io/redir/rdst.htm?t=a22					
 case 'a23'	:ff_targ='https://www.dropbox.com/s/wg6wv9zh30bup1h/190513DRAFT%20Planning%20Change%20of%20Use%20LBH%20form-Mh28.pdf?dl=0';				
-ff_targ_text='StART Change of Use form'; break; // bit.ly/stm23 https://codeleftlab.github.io/redir/rdst.htm?t=a23					
+ff_targ_text='StART Change of Use form'; break; // http://bit.ly/stmumhcu https://codeleftlab.github.io/redir/rdst.htm?t=a23	
+    // assigned so far
 case 'a24'	:ff_targ='https://';				
 ff_targ_text='StART a24'; break; // bit.ly/stm24 https://codeleftlab.github.io/redir/rdst.htm?t=a24					
 case 'a25'	:ff_targ='https://';				
@@ -18,7 +19,7 @@ case 'a29'	:ff_targ='https://';
 ff_targ_text='StART a29'; break; // bit.ly/stm29 https://codeleftlab.github.io/redir/rdst.htm?t=a29					
 case 'a30'	:ff_targ='https://';				
 ff_targ_text='StART a30'; break; // bit.ly/stm30 https://codeleftlab.github.io/redir/rdst.htm?t=a30					
-case 'a31'	:ff_targ='https://';				// assigned so far
+case 'a31'	:ff_targ='https://';				
 ff_targ_text='StART a31'; break; // bit.ly/stm31 https://codeleftlab.github.io/redir/rdst.htm?t=a31					
 case 'a32'	:ff_targ='https://';				
 ff_targ_text='StART a32'; break; // bit.ly/stm32 https://codeleftlab.github.io/redir/rdst.htm?t=a32					
