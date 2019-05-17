@@ -4,9 +4,8 @@ case 'a22'	:ff_targ='https://www.dropbox.com/s/q8fgul2voa32jja/190509Healthy%20S
 ff_targ_text='Healthy Streets St Anns - pitch'; break; // bit.ly/hesta https://codeleftlab.github.io/redir/rdst.htm?t=a22					
 case 'a23'	:ff_targ='https://www.dropbox.com/s/wg6wv9zh30bup1h/190513DRAFT%20Planning%20Change%20of%20Use%20LBH%20form-Mh28.pdf?dl=0';				
 ff_targ_text='StART Change of Use form'; break; // http://bit.ly/stmumhcu https://codeleftlab.github.io/redir/rdst.htm?t=a23	
-    // assigned so far
-case 'a24'	:ff_targ='https://';				
-ff_targ_text='StART a24'; break; // bit.ly/stm24 https://codeleftlab.github.io/redir/rdst.htm?t=a24					
+case 'a24'	:ff_targ='https://www.dropbox.com/s/gc2ahy6hw6fri0f/181101Baseline%20Ecological%20Surveys.docx?dl=0';				
+ff_targ_text='StART a24'; break; // bit.ly/stenvsu https://codeleftlab.github.io/redir/rdst.htm?t=a24					
 case 'a25'	:ff_targ='https://';				
 ff_targ_text='StART a25'; break; // bit.ly/stm25 https://codeleftlab.github.io/redir/rdst.htm?t=a25					
 case 'a26'	:ff_targ='https://';				
