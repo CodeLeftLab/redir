@@ -8,8 +8,8 @@ case 'a24'	:ff_targ='https://www.dropbox.com/s/gc2ahy6hw6fri0f/181101Baseline%20
 ff_targ_text='StART a24'; break; // bit.ly/stenvsu https://codeleftlab.github.io/redir/rdst.htm?t=a24					
 case 'a25'	:ff_targ='https://www.dropbox.com/s/9s5pwz2o5bbpxlv/190520MHbudget%20and%20actuals.xlsx?dl=0';				
 ff_targ_text='StART Cashflow - budget and actuals'; break; // bit.ly/stmumhc https://codeleftlab.github.io/redir/rdst.htm?t=a25					
-case 'a26'	:ff_targ='https://drive.google.com/open?id=1kyLs3m_kse42HqTArgqfIglE3Bgc9N39';				
-ff_targ_text='StART a26'; break; // bit.ly/stmmcresp https://codeleftlab.github.io/redir/rdst.htm?t=a26					
+case 'a26'	:ff_targ='https://drive.google.com/file/d/1kyLs3m_kse42HqTArgqfIglE3Bgc9N39/view?usp=sharing';				
+ff_targ_text='StART Tactical Responses to the April Consultation'; break; // bit.ly/stmmcresp https://codeleftlab.github.io/redir/rdst.htm?t=a26					
 case 'a27'	:ff_targ='https://';				
 ff_targ_text='StART a27'; break; // bit.ly/stm27 https://codeleftlab.github.io/redir/rdst.htm?t=a27					
 case 'a28'	:ff_targ='https://';				
