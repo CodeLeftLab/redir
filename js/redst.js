@@ -10,10 +10,10 @@ case 'a25'	:ff_targ='https://www.dropbox.com/s/9s5pwz2o5bbpxlv/190520MHbudget%20
 ff_targ_text='StART Cashflow - budget and actuals'; break; // bit.ly/stmumhc https://codeleftlab.github.io/redir/rdst.htm?t=a25					
 case 'a26'	:ff_targ='https://drive.google.com/file/d/1kyLs3m_kse42HqTArgqfIglE3Bgc9N39/view?usp=sharing';				
 ff_targ_text='StART Tactical Responses to the April Consultation'; break; // bit.ly/stmmcresp https://codeleftlab.github.io/redir/rdst.htm?t=a26					
-case 'a27'	:ff_targ='https://';				
-ff_targ_text='StART a27'; break; // bit.ly/stm27 https://codeleftlab.github.io/redir/rdst.htm?t=a27					
-case 'a28'	:ff_targ='https://';				
-ff_targ_text='StART a28'; break; // bit.ly/stm28 https://codeleftlab.github.io/redir/rdst.htm?t=a28					
+case 'a27'	:ff_targ='https://www.dropbox.com/s/8fyp36z9swxskqx/DRAFT%20StART%20principles%20to%20guide%20meanwhile%20use.docx?dl=0';				
+ff_targ_text='StART a27'; break; // bit.ly/stmmuprin https://codeleftlab.github.io/redir/rdst.htm?t=a27					
+case 'a28'	:ff_targ='https://www.dropbox.com/ow/msft/edit/work/StART%20team%20folder%20(1)/StART/Sub%20groups/Finance/grant%20applications/2maintain%20StART%20funder%20directory/181017Funders%20Directory.xlsx?hpt_click_ts=1559580512001';				
+ff_targ_text='StART a28'; break; // bit.ly/stfunders https://codeleftlab.github.io/redir/rdst.htm?t=a28					
 case 'a29'	:ff_targ='https://';				
 ff_targ_text='StART a29'; break; // bit.ly/stm29 https://codeleftlab.github.io/redir/rdst.htm?t=a29					
 case 'a30'	:ff_targ='https://';				
