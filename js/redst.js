@@ -3,15 +3,15 @@ var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
 case 'a22'	:ff_targ='https://www.dropbox.com/s/q8fgul2voa32jja/190509Healthy%20Streets%20St%20Ann%27s%20-%20Pitch.docx?dl=0';				
 ff_targ_text='Healthy Streets St Anns - pitch'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a22					
 case 'a23'	:ff_targ='https://www.dropbox.com/s/713ecd99yu4ute6/190610Change%20of%20Use%20to%20B1.pdf?dl=0';				
-ff_targ_text='StART Change of Use form'; break; // http://bit.ly/stmumhcu https://codeleftlab.github.io/redir/rdst.htm?t=a23	
+ff_targ_text='StART Change of Use submission'; break; // http://bit.ly/stmumhcu https://codeleftlab.github.io/redir/rdst.htm?t=a23	
 case 'a24'	:ff_targ='https://www.dropbox.com/s/gc2ahy6hw6fri0f/181101Baseline%20Ecological%20Surveys.docx?dl=0';				
-ff_targ_text='StART ENV SU'; break; // bit.ly/stenvsu https://codeleftlab.github.io/redir/rdst.htm?t=a24					
+ff_targ_text='StART ENV eco surveys'; break; // bit.ly/stenvsu https://codeleftlab.github.io/redir/rdst.htm?t=a24					
 case 'a25'	:ff_targ='https://www.dropbox.com/s/9s5pwz2o5bbpxlv/190520MHbudget%20and%20actuals.xlsx?dl=0';				
 ff_targ_text='StART Cashflow - budget and actuals'; break; // bit.ly/stmumhc https://codeleftlab.github.io/redir/rdst.htm?t=a25					
 case 'a26'	:ff_targ='https://drive.google.com/file/d/1kyLs3m_kse42HqTArgqfIglE3Bgc9N39/view?usp=sharing';				
 ff_targ_text='StART Tactical Responses to the April Consultation'; break; // bit.ly/stmmcresp https://codeleftlab.github.io/redir/rdst.htm?t=a26					
 case 'a27'	:ff_targ='https://www.dropbox.com/s/8fyp36z9swxskqx/DRAFT%20StART%20principles%20to%20guide%20meanwhile%20use.docx?dl=0';				
-ff_targ_text='StART Meaanwhile Use Principles'; break; // bit.ly/stmmuprin https://codeleftlab.github.io/redir/rdst.htm?t=a27					
+ff_targ_text='StART Meanwhile Use Principles'; break; // bit.ly/stmmuprin https://codeleftlab.github.io/redir/rdst.htm?t=a27					
 case 'a28'	:ff_targ='https://www.dropbox.com/ow/msft/edit/work/StART%20team%20folder%20(1)/StART/Sub%20groups/Finance/grant%20applications/2maintain%20StART%20funder%20directory/181017Funders%20Directory.xlsx?hpt_click_ts=1559580512001';				
 ff_targ_text='StART funders'; break; // bit.ly/stfunders https://codeleftlab.github.io/redir/rdst.htm?t=a28					
 case 'a29'	:ff_targ='https://docs.google.com/document/d/1z_JOFV5HglpndDTyz3ZumDtIwETarwXpFlI8kbpRbCo/edit?usp=sharing';				
