@@ -16,8 +16,8 @@ case 'a28'	:ff_targ='https://www.dropbox.com/ow/msft/edit/work/StART%20team%20fo
 ff_targ_text='StART funders'; break; // bit.ly/stfunders https://codeleftlab.github.io/redir/rdst.htm?t=a28					
 case 'a29'	:ff_targ='https://docs.google.com/document/d/1z_JOFV5HglpndDTyz3ZumDtIwETarwXpFlI8kbpRbCo/edit?usp=sharing';				
 ff_targ_text='StART Group - consulation response landing page'; break; // bit.ly/stgconsult https://codeleftlab.github.io/redir/rdst.htm?t=a29					
-case 'a30'	:ff_targ='https://';				
-ff_targ_text='StART a30'; break; // bit.ly/stm30 https://codeleftlab.github.io/redir/rdst.htm?t=a30					
+case 'a30'	:ff_targ='https://www.google.com/maps/d/u/0/viewer?mid=1lSv1CWM3Vp2ACZEHNnHKQFH-sWrrvIA9&ll=51.574036536890226%2C-0.09893717904515142&z=13';				
+ff_targ_text='London Neighbourhood fora'; break; // bit.ly/sznflon https://codeleftlab.github.io/redir/rdst.htm?t=a30					
 case 'a31'	:ff_targ='https://';				
 ff_targ_text='StART a31'; break; // bit.ly/stm31 https://codeleftlab.github.io/redir/rdst.htm?t=a31					
 case 'a32'	:ff_targ='https://';				
