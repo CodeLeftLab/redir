@@ -20,8 +20,8 @@ case 'a30'	:ff_targ='https://www.google.com/maps/d/u/0/viewer?mid=1lSv1CWM3Vp2AC
 ff_targ_text='London Neighbourhood fora'; break; // bit.ly/sznflon https://codeleftlab.github.io/redir/rdst.htm?t=a30					
 case 'a31'	:ff_targ='https://docs.google.com/spreadsheets/d/1qNF4TL8WAWXApzpF7QYbvrmwZyscrZiyQVX7VvEtci4/edit?usp=sharing';				
 ff_targ_text='People Not Profit Campaign'; break; // bit.ly/pnpcamp https://codeleftlab.github.io/redir/rdst.htm?t=a31					
-case 'a32'	:ff_targ='https://';				
-ff_targ_text='StART a32'; break; // bit.ly/stm32 https://codeleftlab.github.io/redir/rdst.htm?t=a32					
+case 'a32'	:ff_targ='https://docs.google.com/spreadsheets/d/1fnpdu5J7T6JtiOlNLV8i_-bpSVVPAzmUCq_JiBs_FKQ';				
+ff_targ_text='StART Meanwhile Events Programme'; break; // bit.ly/stmumhev https://codeleftlab.github.io/redir/rdst.htm?t=a32					
 case 'a33'	:ff_targ='https://';				
 ff_targ_text='StART a33'; break; // bit.ly/stm33 https://codeleftlab.github.io/redir/rdst.htm?t=a33					
 case 'a34'	:ff_targ='https://';				
