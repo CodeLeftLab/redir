@@ -93,7 +93,7 @@ case 'sz22'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUp
 case 'sz66'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUpJbXV2dGl5bDA'; ff_targ_text='Chris 2show';  
                 break; // bit.ly/2KVOGW2 http://codeleftlab.github.io/redir/rd.htm?t=sz66
 /* ============ end of sz section ========================== */ 
-case 'au11'   :ff_targ='rdetails/AllShortLinks.htm'; ff_targ_text='Index of Short Links';  break; 
+case 'au11'   :ff_targ='rdetails/shortlinks/AllShortLinks.htm'; ff_targ_text='Index of Short Links';  break; 
                 // http://codeleftlab.github.io/redir/rd.htm?t=au11 bit.ly/szidx
 case 'au22'   :ff_targ='https://docs.google.com/spreadsheets/d/1s8ie6ERnTSGGPq4x89cS2La2yV86mps_ek_ZDwJpJSE/edit?usp=sharing'; 
                 ff_targ_text='HTH EVents 1939-2000';  break; // bit.ly/hthb42k                 
