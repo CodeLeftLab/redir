@@ -17,7 +17,7 @@ case 'st29p'    :ff_targ='https://docs.google.com/presentation/d/e/2PACX-1vTnSdA
 ff_targ_text='StART Slides Presentation';  break; // bit.ly/start29p http://codeleftlab.github.io/redir/rd.htm?t=st29p
 case 'st29pe'   :ff_targ='https://docs.google.com/presentation/d/17cNhSIOwMpSbTQEiHFvUtFeJIVkyscqMGlarBK7uJBk/edit?usp=sharing'; 
 ff_targ_text='StART Slides editable'; break; // bit.ly/start29pe http://codeleftlab.github.io/redir/rd.htm?t=st29pe
-case 'st29m'    :ff_targ='https://docs.google.com/presentation/d/e/2PACX-1vQB7UJPhOALO9qZGbz1z4t8Sn932W1ZVLS6w5Qwv2LEQAd77Xe1y631K4v_3_-ux0l9lvS8tvcsNwgF/pub?start=false&loop=false&delayms=3000';
+case 'st29m'    :ff_targ='https://docs.google.com/presentation/d/1PE5aym4iYrvOdDp2IzcLT8rOfsjYG0xm9eTKG6naQ2I/edit?usp=sharing';
 ff_targ_text='StART Slides Main AGM';  break; // bit.ly/start29m http://codeleftlab.github.io/redir/rd.htm?t=st29m   
 case 'st29me'   :ff_targ='https://docs.google.com/presentation/d/12CvMLP70TA0SkIstHm9FHGi_pZIdkjBjRrcu5EJ-v9A/edit?usp=sharing'; 
 ff_targ_text='StART Slides Main AGM Editable';  break; // bit.ly/start29me http://codeleftlab.github.io/redir/rd.htm?t=st29me   
