@@ -13,6 +13,8 @@ case 'st33'    :ff_targ='https://www.dropbox.com/s/l16gvk9mq8jh8l4/StART%20Timel
 ff_targ_text='StART timeline';break; // bit.ly/sthistorytl http://codeleftlab.github.io/redir/rd.htm?t=st33
 case 'st33b'    :ff_targ='https://www.dropbox.com/s/wwyek3gpdiu1al3/index%20to%20files.docx?dl=0';
 ff_targ_text='StART Dropbox index';  break; // bit.ly/stdrindex http://codeleftlab.github.io/redir/rd.htm?t=st33b
+case 'st29ht'    :ff_targ='https://docs.google.com/presentation/d/1OBcvroBGm3WgBxHqH2e60CfRr1j5T_vNcK0XWecfq9o/edit?usp=sharing';
+ff_targ_text='StART Slides Presentation HT 1908';  break; // bit.ly/start29ht http://codeleftlab.github.io/redir/rd.htm?t=st29ht
 case 'st29p'    :ff_targ='https://docs.google.com/presentation/d/e/2PACX-1vTnSdA_WgqACVnIrXzDnXM6jiOqb2Y_maBDUhfo6nHcPimOp-467G_ESFmdaysHY1ua8JnbGJXnIeld/pub?start=true&loop=true&delayms=10000';
 ff_targ_text='StART Slides Presentation';  break; // bit.ly/start29p http://codeleftlab.github.io/redir/rd.htm?t=st29p
 case 'st29pe'   :ff_targ='https://docs.google.com/presentation/d/17cNhSIOwMpSbTQEiHFvUtFeJIVkyscqMGlarBK7uJBk/edit?usp=sharing'; 
