@@ -1,43 +1,42 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
-// StART  // bit.ly/stxxx http://codeleftlab.github.io/redir/rdst.htm?t=a22 
-case 'a22'	:ff_targ='https://www.dropbox.com/s/q8fgul2voa32jja/190509Healthy%20Streets%20St%20Ann%27s%20-%20Pitch.docx?dl=0';				
-ff_targ_text='Healthy Streets St Anns - pitch'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a22					
-case 'a23'	:ff_targ='https://www.dropbox.com/s/713ecd99yu4ute6/190610Change%20of%20Use%20to%20B1.pdf?dl=0';				
-ff_targ_text='StART Change of Use submission'; break; // http://bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a23	
-case 'a24'	:ff_targ='https://www.dropbox.com/s/gc2ahy6hw6fri0f/181101Baseline%20Ecological%20Surveys.docx?dl=0';				
-ff_targ_text='StART ENV eco surveys'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a24					
-case 'a25'	:ff_targ='https://www.dropbox.com/s/9s5pwz2o5bbpxlv/190520MHbudget%20and%20actuals.xlsx?dl=0';				
-ff_targ_text='StART Cashflow - budget and actuals'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a25					
-case 'a26'	:ff_targ='https://drive.google.com/file/d/1kyLs3m_kse42HqTArgqfIglE3Bgc9N39/view?usp=sharing';				
-ff_targ_text='StART Tactical Responses to the April Consultation'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a26					
-case 'a27'	:ff_targ='https://www.dropbox.com/s/8fyp36z9swxskqx/DRAFT%20StART%20principles%20to%20guide%20meanwhile%20use.docx?dl=0';				
-ff_targ_text='StART Meanwhile Use Principles'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a27					
-case 'a28'	:ff_targ='https://www.dropbox.com/ow/msft/edit/work/StART%20team%20folder%20(1)/StART/Sub%20groups/Finance/grant%20applications/2maintain%20StART%20funder%20directory/181017Funders%20Directory.xlsx?hpt_click_ts=1559580512001';				
-ff_targ_text='StART funders'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a28					
-case 'a29'	:ff_targ='https://docs.google.com/document/d/1z_JOFV5HglpndDTyz3ZumDtIwETarwXpFlI8kbpRbCo/edit?usp=sharing';				
-ff_targ_text='StART Group - consulation response landing page'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a29					
-case 'a30'	:ff_targ='https://www.google.com/maps/d/u/0/viewer?mid=1lSv1CWM3Vp2ACZEHNnHKQFH-sWrrvIA9&ll=51.574036536890226%2C-0.09893717904515142&z=13';				
-ff_targ_text='London Neighbourhood fora'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a30					
-case 'a31'	:ff_targ='https://docs.google.com/spreadsheets/d/1qNF4TL8WAWXApzpF7QYbvrmwZyscrZiyQVX7VvEtci4/edit?usp=sharing';				
-ff_targ_text='People Not Profit Campaign'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a31					
-case 'a32'	:ff_targ='https://docs.google.com/spreadsheets/d/1fnpdu5J7T6JtiOlNLV8i_-bpSVVPAzmUCq_JiBs_FKQ';				
-ff_targ_text='StART Meanwhile Events Programme'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a32					
-case 'a33'	:ff_targ='https://www.youtube.com/watch?v=G-MnCu7Jnoo';				
-ff_targ_text='StART 190718MQT Question by Sian Berry'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a33					
-case 'a34'	:ff_targ='https://';				
-ff_targ_text='StART a34'; break; // bit.ly/stm34 https://codeleftlab.github.io/redir/rdst.htm?t=a34					
-case 'a35'	:ff_targ='https://';				
-ff_targ_text='StART a35'; break; // bit.ly/stm35 https://codeleftlab.github.io/redir/rdst.htm?t=a35					
-case 'a36'	:ff_targ='https://';				
-ff_targ_text='StART a36'; break; // bit.ly/stm36 https://codeleftlab.github.io/redir/rdst.htm?t=a36					
-case 'a37'	:ff_targ='https://';				
-ff_targ_text='StART a37'; break; // bit.ly/stm37 https://codeleftlab.github.io/redir/rdst.htm?t=a37					
-case 'a38'	:ff_targ='https://';				
-ff_targ_text='StART a38'; break; // bit.ly/stm38 https://codeleftlab.github.io/redir/rdst.htm?t=a38					
-case 'a39'	:ff_targ='https://';				
-ff_targ_text='StART a39'; break; // bit.ly/stm39 https://codeleftlab.github.io/redir/rdst.htm?t=a39					
-case 'a40'	:ff_targ='https://';				
-ff_targ_text='StART a40'; break; // bit.ly/stm40 https://codeleftlab.github.io/redir/rdst.htm?t=a40									
+case 'b22'	:ff_targ='https://www.setz.gq';				
+ff_targ_text='stuff4sale'; break; // bit.ly/forsalehere https://codeleftlab.github.io/redir/rdst2.htm?t=b22					
+case 'b23'	:ff_targ='https://www.dropbox.com/s/713ecd99yu4ute6/190610Change%20of%20Use%20to%20B1.pdf?dl=0';				
+ff_targ_text='tttttttttttttt'; break; // http://bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b23	
+case 'b24'	:ff_targ='https://www.dropbox.com/s/gc2ahy6hw6fri0f/181101Baseline%20Ecological%20Surveys.docx?dl=0';				
+ff_targ_text='tttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b24					
+case 'b25'	:ff_targ='https://www.dropbox.com/s/9s5pwz2o5bbpxlv/190520MHbudget%20and%20actuals.xlsx?dl=0';				
+ff_targ_text='tttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b25					
+case 'b26'	:ff_targ='https://drive.google.com/file/d/1kyLs3m_kse42HqTArgqfIglE3Bgc9N39/view?usp=sharing';				
+ff_targ_text='ttttttttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b26					
+case 'b27'	:ff_targ='https://www.dropbox.com/s/8fyp36z9swxskqx/DRAFT%20StART%20principles%20to%20guide%20meanwhile%20use.docx?dl=0';				
+ff_targ_text='tttttttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b27					
+case 'b28'	:ff_targ='bbbbb';				
+ff_targ_text='tttttttttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b28					
+case 'b29'	:ff_targ='https://docs.google.com/document/d/1z_JOFV5HglpndDTyz3ZumDtIwETarwXpFlI8kbpRbCo/edit?usp=sharing';				
+ff_targ_text='ttttttttttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b29					
+case 'b30'	:ff_targ='https://www.google.com/maps/d/u/0/viewer?mid=1lSv1CWM3Vp2ACZEHNnHKQFH-sWrrvIA9&ll=51.574036536890226%2C-0.09893717904515142&z=13';				
+ff_targ_text='tttttttttttttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b30					
+case 'b31'	:ff_targ='https://docs.google.com/spreadsheets/d/1qNF4TL8WAWXApzpF7QYbvrmwZyscrZiyQVX7VvEtci4/edit?usp=sharing';				
+ff_targ_text='tttttttttttttttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b31					
+case 'b32'	:ff_targ='https://docs.google.com/spreadsheets/d/1fnpdu5J7T6JtiOlNLV8i_-bpSVVPAzmUCq_JiBs_FKQ';				
+ff_targ_text='ttttttttttttttttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b32					
+case 'b33'	:ff_targ='https://www.youtube.com/watch?v=G-MnCu7Jnoo';				
+ff_targ_text='tttttttttttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b33					
+case 'b34'	:ff_targ='https://';				
+ff_targ_text='text b34'; break; // bit.ly/stm34 https://codeleftlab.github.io/redir/rdst2.htm?t=b34					
+case 'b35'	:ff_targ='https://';				
+ff_targ_text='text b35'; break; // bit.ly/stm35 https://codeleftlab.github.io/redir/rdst2.htm?t=b35					
+case 'b36'	:ff_targ='https://';				
+ff_targ_text='text b36'; break; // bit.ly/stm36 https://codeleftlab.github.io/redir/rdst2.htm?t=b36					
+case 'b37'	:ff_targ='https://';				
+ff_targ_text='text b37'; break; // bit.ly/stm37 https://codeleftlab.github.io/redir/rdst2.htm?t=b37					
+case 'b38'	:ff_targ='https://';				
+ff_targ_text='text b38'; break; // bit.ly/stm38 https://codeleftlab.github.io/redir/rdst2.htm?t=b38					
+case 'b39'	:ff_targ='https://';				
+ff_targ_text='text b39'; break; // bit.ly/stm39 https://codeleftlab.github.io/redir/rdst2.htm?t=b39					
+case 'b40'	:ff_targ='https://';				
+ff_targ_text='text b40'; break; // bit.ly/stm40 https://codeleftlab.github.io/redir/rdst2.htm?t=b40									
 
 default:sw_targ=false;break;
 }
