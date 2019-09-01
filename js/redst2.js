@@ -1,6 +1,6 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
 case 'b22'	:ff_targ='https://www.setz.gq';				
-ff_targ_text='stuff4sale'; break; // bit.ly/forsalehere https://codeleftlab.github.io/redir/rdst2.htm?t=b22					
+ff_targ_text='forsalehere Forsalehere ForSaleHere'; break; // bit.ly/forsalehere https://codeleftlab.github.io/redir/rdst2.htm?t=b22					
 case 'b23'	:ff_targ='https://www.dropbox.com/s/713ecd99yu4ute6/190610Change%20of%20Use%20to%20B1.pdf?dl=0';				
 ff_targ_text='tttttttttttttt'; break; // http://bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b23	
 case 'b24'	:ff_targ='https://www.dropbox.com/s/gc2ahy6hw6fri0f/181101Baseline%20Ecological%20Surveys.docx?dl=0';				
