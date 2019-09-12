@@ -1,5 +1,4 @@
-var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
-// StART  // bit.ly/stxxx http://codeleftlab.github.io/redir/rd.htm?t=a22 
+var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {// http://codeleftlab.github.io/redir/rd.htm?
 // StART  // bit.ly/stxxx http://codeleftlab.github.io/redir/rd.htm?t=st2x //bit.ly/sthist goes directly to my gsheet
 case 'st22'    :ff_targ='https://www.dropbox.com/s/l16gvk9mq8jh8l4/StART%20Timeline.xlsx?dl=0';
 ff_targ_text='StART History';  break; // bit.ly/starch22 http://codeleftlab.github.io/redir/rd.htm?t=st22
@@ -77,10 +76,9 @@ case 'st93'    :ff_targ='https://www.dropbox.com/s/0ggctdcb8t54hol/181204StART%2
 ff_targ_text='StART Meanwhile MH - Risks'; break; // bit.ly/stmurisk https://codeleftlab.github.io/redir/rd.htm?t=st93
 case 'st94'    :ff_targ='https://docs.google.com/document/d/12In541AZStVn6UI_MPlprsay8ATXNeC8UwpIXFv94bM/edit?usp=sharing'; 
 ff_targ_text='StART Meanwhile MH Narrative'; break; // bit.ly/stmumh https://codeleftlab.github.io/redir/rd.htm?t=st94
-/* =======================assigned ends here =============================== */ 
-case 'st95'    :ff_targ='https://'; 
-ff_targ_text='StART xx'; break; // bit.ly/stmug https://codeleftlab.github.io/redir/rd.htm?t=st95
-/* =======================end of StART section - see rdst.htm for rest =============================== */    
+case 'st95'    :ff_targ='https://docs.google.com/document/d/1ieA4upWKuHT84cT6f-1XWg3TdDzCpqyDGR-Wfi7sZuI/edit?usp=sharing'; 
+ff_targ_text='StART Status Log - Env Group'; break; // https://bit.ly/stlogenv https://codeleftlab.github.io/redir/rd.htm?t=st95
+/* =======================end of StART section -=============================== */    
 case 'sz33'    :ff_targ='https://www.dropbox.com/ow/msft/edit/work/StART%20team%20folder%20(1)/StART/Sub%20groups/£50M%20Funding/£50m%20funding%20contacts.xlsx'; ff_targ_text='£50m db xls';  
                 break; // bit.ly/£50m2do http://codeleftlab.github.io/redir/rd.htm?t=sz33
 case 'sz44'    :ff_targ='https://www.london.gov.uk/press-releases/mayoral/sadiq-buys-first-site-with-his-250m-land-fund'; ff_targ_text='GLA Press Release';  
@@ -100,52 +98,52 @@ case 'au11'   :ff_targ='rdetails/shortlinks/AllShortLinks.htm'; ff_targ_text='In
 case 'au22'   :ff_targ='https://docs.google.com/spreadsheets/d/1s8ie6ERnTSGGPq4x89cS2La2yV86mps_ek_ZDwJpJSE/edit?usp=sharing'; 
                 ff_targ_text='HTH EVents 1939-2000';  break; // bit.ly/hthb42k                 
 case 'au23'   :ff_targ='http://HaringeyTreeWardens.org.uk/events/tree-planting-priory-park/';          
-                ff_targ_text='Tree Planting';  		break; // http://bit.ly/1EzVs4H 
-case 'au24'   :ff_targ='https://docs.google.com/document/d/1JIt2eKaD7IINsHKn99hFMuW_hHyIyqz4BdiSjVEp-Ko/edit?usp=sharing'; ff_targ_text='Tottenham Lane Planning objection'; break; // http://bit.ly/hth7obj 
-case 'au25'   :ff_targ='http://HaringeyTreeWardens.org.uk?src=b2';        ff_targ_text='htw';								break; // http://bit.ly/1AYqxh1 
+                ff_targ_text='Tree Planting';  		break; // https://bit.ly/1EzVs4H 
+case 'au24'   :ff_targ='https://docs.google.com/document/d/1JIt2eKaD7IINsHKn99hFMuW_hHyIyqz4BdiSjVEp-Ko/edit?usp=sharing'; ff_targ_text='Tottenham Lane Planning objection'; break; // https://bit.ly/hth7obj 
+case 'au25'   :ff_targ='http://HaringeyTreeWardens.org.uk?src=b2';        ff_targ_text='htw';								break; // https://bit.ly/1AYqxh1 
 case 'au26'   :ff_targ='http://HaringeyTreeWardens.org.uk/wp-admin/index.php?src=b2';         
-                ff_targ_text='htw admin';		break; // http://bit.ly/htwad
-case 'au27'   :ff_targ='http://IslingtonTreeWardens.org.uk?src=b2';      ff_targ_text='itw';								break; // http://bit.ly/1CaQjmd http://codeleftlab.github.io/redir/rd.htm?t=au27&v=1
+                ff_targ_text='htw admin';		break; // https://bit.ly/htwad
+case 'au27'   :ff_targ='http://IslingtonTreeWardens.org.uk?src=b2';      ff_targ_text='itw';								break; // https://bit.ly/1CaQjmd http://codeleftlab.github.io/redir/rd.htm?t=au27&v=1
 case 'au28'   :ff_targ='http://IslingtonTreeWardens.org.uk/wp-admin/index.php?src=b2';		
-                ff_targ_text='itw admin';		break; // http://bit.ly/itwadmin
+                ff_targ_text='itw admin';		break; // https://bit.ly/itwadmin
 case 'au29'   :ff_targ='https://googledrive.com/host/0B1mlQ5dv0_syeHM5QktQN1F3ck0';          
-                ff_targ_text='HTW Resource List';  break; // http://bit.ly/htwlist 
-case 'au30'   :ff_targ='rdetails/au/30.htm';          ff_targ_text='30 txt';                     								break; // http://bit.ly/1AYr030 http://codeleftlab.github.io/redir/rd.htm?t=au30&v=1
-case 'au31'   :ff_targ='https://wrdtrees.wordpress.com'; ff_targ_text='Trees of Windemere Road, London N10, UK';                     								break; // http://bit.ly/wrdtrees http://codeleftlab.github.io/redir/rd.htm?t=au31&v=1
+                ff_targ_text='HTW Resource List';  break; // https://bit.ly/htwlist 
+case 'au30'   :ff_targ='rdetails/au/30.htm';          ff_targ_text='30 txt';                     								break; // https://bit.ly/1AYr030 http://codeleftlab.github.io/redir/rd.htm?t=au30&v=1
+case 'au31'   :ff_targ='https://wrdtrees.wordpress.com'; ff_targ_text='Trees of Windemere Road, London N10, UK';                     								break; // https://bit.ly/wrdtrees http://codeleftlab.github.io/redir/rd.htm?t=au31&v=1
 case 'au32'   :ff_targ='https://drive.google.com/open?id=1B59HN03QSRVGcn0dRsOVoQwa4lSPHybAQvmAKraA4Zw'; 
                 ff_targ_text='Friends of Ally Pally events';break; 
-                // http://bit.ly/foapevents https://codeleftlab.github.io/redir/rd.htm?t=au32&v=1
+                // https://bit.ly/foapevents https://codeleftlab.github.io/redir/rd.htm?t=au32&v=1
 case 'au33'   :ff_targ='https://drive.google.com/open?id=0B3RwgNtvv_xzY0xfNG5KLUFHUXM'; 
                 ff_targ_text='2004 HTH ConservationReport - Alan Baxter Associates';	break; 
-                // http://bit.ly/HTHrep04 http://codeleftlab.github.io/redir/rd.htm?t=au33&v=1 
+                // https://bit.ly/HTHrep04 http://codeleftlab.github.io/redir/rd.htm?t=au33&v=1 
 case 'au34'   :ff_targ='https://docs.google.com/presentation/d/14_J3BYQUOkQhSspUbKVafRo6Ap_GG4f171arzx19Xv0/pub?start=false&loop=false&delayms=60000'; 
-                ff_targ_text='French Circle Slides';	break; // http://bit.ly/tlink34 http://codeleftlab.github.io/redir/rd.htm?t=au34 
+                ff_targ_text='French Circle Slides';	break; // https://bit.ly/tlink34 http://codeleftlab.github.io/redir/rd.htm?t=au34 
 case 'au35'   :ff_targ='https://docs.google.com/spreadsheets/d/1RuC5PsrvKXWKHNKQIDWtvB4iuiSstIJB9prXuRn5mc0/edit?usp=sharing'; 
-                ff_targ_text='PlanForSoho PDG1';	break; // http://bit.ly/p4sPDG1 http://codeleftlab.github.io/redir/rd.htm?t=au35&v=1
+                ff_targ_text='PlanForSoho PDG1';	break; // https://bit.ly/p4sPDG1 http://codeleftlab.github.io/redir/rd.htm?t=au35&v=1
 case 'au36'   :ff_targ='https://drive.google.com/drive/folders/0B2s8p6HYw2KDUzNtdHd6VHdhdXc?usp=sharing'; 
-                ff_targ_text='Plan4Soho Shared AreaA';	break; // http://bit.ly/shareP4S http://codeleftlab.github.io/redir/rd.htm?t=au32&v=1
+                ff_targ_text='Plan4Soho Shared AreaA';	break; // https://bit.ly/shareP4S http://codeleftlab.github.io/redir/rd.htm?t=au32&v=1
 case 'au37'   :ff_targ='rdetails/bridge/currank/index.htm?c=crouchend'; ff_targ_text='Bridge Current Rankings';	break; 
-                // http://bit.ly/brcurrank http://codeleftlab.github.io/redir/rd.htm?t=au37&v=1
+                // https://bit.ly/brcurrank http://codeleftlab.github.io/redir/rd.htm?t=au37&v=1
 /* ============ DEV section 1 ========================== */
 case 'td22'   :ff_targ='https://FelineIvoryRefactoring--zawert.repl.co'; ff_targ_text='REPL ar test';	break; 
-                // http://bit.ly/testdev22 http://codeleftlab.github.io/redir/rd.htm?t=td22&v=1    
+                // https://bit.ly/testdev22 http://codeleftlab.github.io/redir/rd.htm?t=td22&v=1    
 /* ============ HTH section 1 ========================== */
 case 'au38'   :ff_targ='https://docs.google.com/spreadsheets/d/1no4EYBgokidNkHlloy9OfK3Mv0YVZN7fUTs5cjsgRuc/edit?usp=sharing'; 
-                ff_targ_text='HTH 2016 events';	break; // http://bit.ly/hth16events http://codeleftlab.github.io/redir/rd.htm?t=au38
+                ff_targ_text='HTH 2016 events';	break; // https://bit.ly/hth16events http://codeleftlab.github.io/redir/rd.htm?t=au38
 case 'au39'   :ff_targ='https://chrome.google.com/webstore/detail/share-and-merge-contacts/fblgiaeadhcmiidmegcffdblalkdoejd?hl=en'; 
-                ff_targ_text='temp:share and merge contacts';	break; // http://bit.ly/tmp222 http://codeleftlab.github.io/redir/rd.htm?t=au39
+                ff_targ_text='temp:share and merge contacts';	break; // https://bit.ly/tmp222 http://codeleftlab.github.io/redir/rd.htm?t=au39
 case 'hthrt'   :ff_targ='https://www.eventbrite.co.uk/e/hth-pavement-procession-and-rally-tickets-37939947404'; 
-                ff_targ_text='HTH Rally tickets';	break; // http://bit.ly/hthrtkts http://codeleftlab.github.io/redir/rd.htm?t=hthrt 
+                ff_targ_text='HTH Rally tickets';	break; // https://bit.ly/hthrtkts http://codeleftlab.github.io/redir/rd.htm?t=hthrt 
 case 'hthp1'   :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzSDgzMGhGXzBJalk?usp=sharing'; 
-                ff_targ_text='HTH Rally photos';	break; // http://bit.ly/hth23ph http://codeleftlab.github.io/redir/rd.htm?t=hthp1 
+                ff_targ_text='HTH Rally photos';	break; // https://bit.ly/hth23ph http://codeleftlab.github.io/redir/rd.htm?t=hthp1 
 /* ============ end of HTH section 1========================== */ 
 case 'au40'   :ff_targ='rdetails/bridge/currank/indexjq.htm?c=crouchend'; ff_targ_text='Crouch End Bridge Club Session Results'; break; 
-                // http://bit.ly/br22rank http://codeleftlab.github.io/redir/rd.htm?t=au40
+                // https://bit.ly/br22rank http://codeleftlab.github.io/redir/rd.htm?t=au40
 case 'au41'   :ff_targ='rdetails/bridge/currank/indexjq.htm?c=ned'; ff_targ_text='Bridge Club Session Results';	break;
-                // http://bit.ly/br33rank http://codeleftlab.github.io/redir/rd.htm?t=au41
+                // https://bit.ly/br33rank http://codeleftlab.github.io/redir/rd.htm?t=au41
 case 'au42'   :ff_targ='https://dn06zbyk7vray.cloudfront.net/upload_771/LSA1231+What+Future+for+Haringey+1974_1400083664_480p08.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9kbjA2emJ5azd2cmF5LmNsb3VkZnJvbnQubmV0L3VwbG9hZF83NzEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNDg3ODk2NzU3fX19XX0_&Signature=hzIA3KfSrGsdpsJ2ubb9d-IKiI9HC7Oac5ueZEPWbn35DbgFIe4XB0reOpI~Gj2PyoVV8xFsFKiDShg2Wec~recqslXSq-yZQ0gGH-KN5o58J9N~e5rg24DY1xVSq7HRCqhoWJ3i9iyiwal0HZawMYP6NQ-6n6V2~rTfhnkpmCl90fxTuUgY4z0hVMueC1yeXH6K2HEbsvjobZsIWMj-jkS2VdTcbwo62-tUYrI9I~mEJoq4lzY7gc7XCalH51rJ8r178YCOjFdnIYkBh6XSu6ZVtrp215W4-pDvUy-m4~wC5ecW46HIyfi1eGtm7v8kxh-L8n0rzPIyy21JWqWCMg__&Key-Pair-Id=APKAJO2QINMFS7L6ZKQA'; 
     ff_targ_text='1974 33min film about Wood Green';	
-                break; // http://bit.ly/hgwg1974 http://codeleftlab.github.io/redir/rd.htm?t=au41
+                break; // https://bit.ly/hgwg1974 http://codeleftlab.github.io/redir/rd.htm?t=au41
 case 'b22'   :ff_targ='https://www.youtube.com/watch?v=82VRVT_MG90'; ff_targ_text='ytube stream';  break; 
                 // bit.ly/yts22 http://codeleftlab.github.io/redir/rd.htm?t=b22&v=1
 case 'b23'   :ff_targ='https://limecomms.gq'; ff_targ_text='LimeLight';  break; 
@@ -220,3 +218,4 @@ if (sw_targ==true) {window.location.href=ff_targ; document.write('<meta http-equ
 else {document.write('There may have been an error - no action possible:'+ff_targ);}
 function querySt(Key) {var url = window.location.href; KeysValues = url.split(/[\?&]+/);
 for (i = 0; i < KeysValues.length; i++) {KeyValue = KeysValues[i].split("="); if (KeyValue[0] == Key) {return KeyValue[1];}}}
+
