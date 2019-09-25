@@ -44,8 +44,8 @@ case 'st66'    :ff_targ='https://docs.google.com/document/d/1kUE_UehE4MF2whqYNPG
 ff_targ_text='StART - my links';  break; // bit.ly/stlinks https://codeleftlab.github.io/redir/rd.htm?t=st66 was rdetails/idxsta.htm
 case 'st77'    :ff_targ='https://drive.google.com/open?id=1KSgPaetXVEPAY5tAC-tbRtNz5CzuYDOY&usp=sharing';
 ff_targ_text='St Anns Old Buildings purposes'; break; // bit.ly/stxlayout https://codeleftlab.github.io/redir/rd.htm?t=st77
-case 'st78'    :ff_targ='https://doodle.com/poll/wpqnddhxtf9d7dnu';
-ff_targ_text='StART Meanwhile Use Group meeting poll';   break; // bit.ly/stmug https://codeleftlab.github.io/redir/rd.htm?t=st78
+case 'st78'    :ff_targ='https://doodle.com/poll/p4fw35wivucdyrkk';
+ff_targ_text='StART Meanwhile Use Group meeting poll';   break; // bit.ly/stmpoll https://codeleftlab.github.io/redir/rd.htm?t=st78
 case 'st80'    :ff_targ='https://www.dropbox.com/s/mlwwajaa8zwjfcp/Draft%20%20Mayfield%20Lease%20HoT.docx?dl=0';
 ff_targ_text='StART xx';  break; // bit.ly/sthotmh https://codeleftlab.github.io/redir/rd.htm?t=st80
 case 'st81'    :ff_targ='https://inews.co.uk/news/housebuilding-profits-uk-the-economist/';
