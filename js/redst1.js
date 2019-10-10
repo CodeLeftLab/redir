@@ -26,8 +26,8 @@ case 'a33'	:ff_targ='https://www.youtube.com/watch?v=G-MnCu7Jnoo';
 ff_targ_text='StART 190718MQT Question by Sian Berry'; break; // bit.ly/stmqt18 https://codeleftlab.github.io/redir/rdst.htm?t=a33					
 case 'a34'	:ff_targ='https://drive.google.com/open?id=1XbLNfdWKLlVJBKz0_hYzo8QKFVdoLM0y&usp=sharing';				
 ff_targ_text='St Anns Ward Postcode Map'; break; // bit.ly/stawardp https://codeleftlab.github.io/redir/rdst.htm?t=a34					
-case 'a35'	:ff_targ='https://';				
-ff_targ_text='StART a35'; break; // bit.ly/stm35 https://codeleftlab.github.io/redir/rdst.htm?t=a35					
+case 'a35'	:ff_targ='https://www.dropbox.com/s/latnbaf8kvkw86x/Community-Led%20Homes%20Group%20-%20Overview.docx?dl=0';				
+ff_targ_text='StART CLH group overview'; break; // bit.ly/stclhovw https://codeleftlab.github.io/redir/rdst.htm?t=a35					
 case 'a36'	:ff_targ='https://';				
 ff_targ_text='StART a36'; break; // bit.ly/stm36 https://codeleftlab.github.io/redir/rdst.htm?t=a36					
 case 'a37'	:ff_targ='https://';				
