@@ -31,9 +31,9 @@ ff_targ_text='StART CLH group overview'; break; // bit.ly/stclhovw https://codel
 case 'a36'	:ff_targ='https://doodle.com/poll/p4fw35wivucdyrkk';				
 ff_targ_text='StART Meanwhile User Group Poll'; break; // bit.ly/stmugp https://codeleftlab.github.io/redir/rdst.htm?t=a36					
 case 'a37'	:ff_targ='https://';				
-ff_targ_text='StART a37'; break; // bit.ly/stm37 https://codeleftlab.github.io/redir/rdst.htm?t=a37					
-case 'a38'	:ff_targ='https://';				
-ff_targ_text='StART a38'; break; // bit.ly/stm38 https://codeleftlab.github.io/redir/rdst.htm?t=a38					
+ff_targ_text='StART CLH User Group Poll tbd'; break; // bit.ly/stm37 https://codeleftlab.github.io/redir/rdst.htm?t=a37					
+case 'a38'	:ff_targ='https://docs.google.com/document/d/1NZUuLvHKzx4TfNTLBMA5U_kjsk2EnhmNwQpYjySzDzk/edit?usp=sharing';				
+ff_targ_text='StART Briefing External'; break; // bit.ly/stbrief https://codeleftlab.github.io/redir/rdst.htm?t=a38					
 case 'a39'	:ff_targ='https://';				
 ff_targ_text='StART a39'; break; // bit.ly/stm39 https://codeleftlab.github.io/redir/rdst.htm?t=a39					
 case 'a40'	:ff_targ='https://';				
