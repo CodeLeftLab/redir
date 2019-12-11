@@ -36,8 +36,8 @@ case 'a38'	:ff_targ='https://docs.google.com/document/d/1NZUuLvHKzx4TfNTLBMA5U_k
 ff_targ_text='StART Briefing External'; break; // bit.ly/stbrief https://codeleftlab.github.io/redir/rdst.htm?t=a38					
 case 'a39'	:ff_targ='https://docs.google.com/spreadsheets/d/1BY_-nRtz8qN1071-uDHlrpdMPo3YTFfb45G63woJ5pA/edit?usp=sharing';				
 ff_targ_text='StART Task List 22'; break; // http://bit.ly/stlist22 https://codeleftlab.github.io/redir/rdst.htm?t=a39					
-case 'a40'	:ff_targ='https://';				
-ff_targ_text='StART a40'; break; // bit.ly/stm40 https://codeleftlab.github.io/redir/rdst.htm?t=a40									
+case 'a40'	:ff_targ='https://www.dropbox.com/s/wraf2m58zt2otqc/StART%20Engagement%20Guidelines%20-%20V4.1%20October%2019.pdf?dl=0';				
+ff_targ_text='StART Engagement Guidlines'; break; // bit.ly/steng22 https://codeleftlab.github.io/redir/rdst.htm?t=a40									
 
 default:sw_targ=false;break;
 }
