@@ -84,7 +84,7 @@ case 'sz33'    :ff_targ='https://www.dropbox.com/ow/msft/edit/work/StART%20team%
                 break; // bit.ly/£50m2do http://codeleftlab.github.io/redir/rd.htm?t=sz33
 case 'sz44'    :ff_targ='https://www.london.gov.uk/press-releases/mayoral/sadiq-buys-first-site-with-his-250m-land-fund'; ff_targ_text='GLA Press Release';  
                 break; // bit.ly/stglap http://codeleftlab.github.io/redir/rd.htm?t=sz44
-case 'sz55'    :ff_targ='https://zawsx.github.io/startowners'; ff_targ_text='St. Anns Lease owner map';  
+case 'sz55'    :ff_targ='https://startowners.around.gq/'; ff_targ_text='St. Anns Lease owner map';  
                 break; // bit.ly/mapsta http://codeleftlab.github.io/redir/rd.htm?t=sz55
 case 'sz77'    :ff_targ='https://www.loomio.org/join/group/1VeRD8U9V8eXtQACRA3Dasdm/'; ff_targ_text='StART Strategy Discussion Group';  
                 break; // bit.ly/stratdiscuss http://codeleftlab.github.io/redir/rd.htm?t=sz77
