@@ -47,8 +47,8 @@ ff_targ_text='St Anns Old Buildings purposes'; break; // bit.ly/stxlayout https:
 case 'st78'    :ff_targ='https://doodle.com/poll/p4fw35wivucdyrkk';
 ff_targ_text='StART Meanwhile Use Group meeting poll';   break; // bit.ly/stmpoll https://codeleftlab.github.io/redir/rd.htm?t=st78
 case 'st80'    :ff_targ='https://www.dropbox.com/s/mlwwajaa8zwjfcp/Draft%20%20Mayfield%20Lease%20HoT.docx?dl=0';
-ff_targ_text='StART xx';  break; // bit.ly/sthotmh https://codeleftlab.github.io/redir/rd.htm?t=st80
-case 'st81'    :ff_targ='https://inews.co.uk/news/housebuilding-profits-uk-the-economist/';
+ff_targ_text='StART Mayfield House lease';  break; // bit.ly/sthotmh https://codeleftlab.github.io/redir/rd.htm?t=st80
+case 'st81'    :ff_targ='https://www.dropbox.com/s/mlwwajaa8zwjfcp/Draft%20%20Mayfield%20Lease%20HoT.docx?dl=0';
 ff_targ_text='StART Mayfield House lease'; break; // bit.ly/stleasemhs https://codeleftlab.github.io/redir/rd.htm?t=st81
 case 'st82'    :ff_targ='https://www.loomio.org/join/group/BSE2DjPRf58konZ1QvqGGkNZ/';
 ff_targ_text='StART Strategy Group Announcements'; break; // bit.ly/stratpress https://codeleftlab.github.io/redir/rd.htm?t=st82
@@ -78,6 +78,7 @@ case 'st94'    :ff_targ='https://docs.google.com/document/d/12In541AZStVn6UI_MPl
 ff_targ_text='StART Meanwhile MH Narrative'; break; // bit.ly/stmumh https://codeleftlab.github.io/redir/rd.htm?t=st94
 case 'st95'    :ff_targ='https://docs.google.com/document/d/1ieA4upWKuHT84cT6f-1XWg3TdDzCpqyDGR-Wfi7sZuI/edit?usp=sharing'; 
 ff_targ_text='StART Status Log - Env Group'; break; // https://bit.ly/stlogenv https://codeleftlab.github.io/redir/rd.htm?t=st95
+    // 2do add this one 'https://inews.co.uk/news/housebuilding-profits-uk-the-economist/'
 /* =======================end of StART section -=============================== */    
 case 'sz33'    :ff_targ='https://www.dropbox.com/ow/msft/edit/work/StART%20team%20folder%20(1)/StART/Sub%20groups/£50M%20Funding/£50m%20funding%20contacts.xlsx'; ff_targ_text='£50m db xls';  
                 break; // bit.ly/£50m2do http://codeleftlab.github.io/redir/rd.htm?t=sz33
