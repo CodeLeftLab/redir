@@ -42,8 +42,10 @@ case 'a41'	:ff_targ='https://docs.google.com/document/d/1DDBUNMO3Y90jCYR48-hPXn-
 ff_targ_text='StART Strategy Principles'; break; // bit.ly/stprin https://codeleftlab.github.io/redir/rdst.htm?t=a41
 case 'a42'	:ff_targ='https://docs.google.com/spreadsheets/d/163HXZDuROR0odsPVZBF6e4n-2mEjAvxKu7l2GbKiRIU/edit?usp=sharing';				
 ff_targ_text='StART Contact List'; break; // https://bit.ly/stcontacts https://codeleftlab.github.io/redir/rdst.htm?t=a42
+case 'a43'	:ff_targ='https://docs.google.com/document/d/1BhvL5JxCQppYc8I9D2EIY2TwjULOSC7ZlN4kAqf8l5g/edit?usp=sharing';				
+ff_targ_text='StART Collateral List - Masterplan etc'; break; // https://bit.ly/stcollat https://codeleftlab.github.io/redir/rdst.htm?t=a43
     
-    // https:bit.ly
+    // https://bit.ly
 
 default:sw_targ=false;break;
 }
