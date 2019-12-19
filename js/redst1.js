@@ -46,7 +46,8 @@ case 'a43'	:ff_targ='https://docs.google.com/document/d/1BhvL5JxCQppYc8I9D2EIY2T
 ff_targ_text='StART Collateral List - Masterplan etc'; break; // https://bit.ly/stcollat https://codeleftlab.github.io/redir/rdst.htm?t=a43
 case 'a44'	:ff_targ='https://drive.google.com/open?id=108ai_eaY_ar-ZRyuTxuCTSqU_ZJqMWdy';				
 ff_targ_text='StART Shared Resources'; break; // https://bit.ly/stshare22 https://codeleftlab.github.io/redir/rdst.htm?t=a44
-    
+case 'a45'	:ff_targ='https://docs.google.com/document/d/1LE0Bfidktmo3UZ0ke7gEopLcjqc1UO0LRvKCmWIxLBM/edit?usp=sharing';				
+ff_targ_text='StART Shared Resources'; break; // https://bit.ly/stgdshelp https://codeleftlab.github.io/redir/rdst.htm?t=a45
         
         
     // https://bit.ly
