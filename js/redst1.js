@@ -48,6 +48,10 @@ case 'a44'	:ff_targ='https://drive.google.com/open?id=108ai_eaY_ar-ZRyuTxuCTSqU_
 ff_targ_text='StART Shared Resources Link to gdrive'; break; // https://bit.ly/stshare22 https://codeleftlab.github.io/redir/rdst.htm?t=a44
 case 'a45'	:ff_targ='https://docs.google.com/document/d/1LE0Bfidktmo3UZ0ke7gEopLcjqc1UO0LRvKCmWIxLBM/edit?usp=sharing';				
 ff_targ_text='StART Help - share gdrive'; break; // https://bit.ly/stgdshelp https://codeleftlab.github.io/redir/rdst.htm?t=a45
+case 'a46'	:ff_targ='https://docs.google.com/spreadsheets/d/13DWiBi3YoqeqbjvfOA7yg9dwaCufCnIHUvBSDBd1zxI/edit?usp=sharing';				
+ff_targ_text='StART Housing mix on site'; break; // https://bit.ly/sthmix https://codeleftlab.github.io/redir/rdst.htm?t=a46
+                
+                
         
         
     // https://bit.ly
