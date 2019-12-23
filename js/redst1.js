@@ -50,10 +50,10 @@ case 'a45'	:ff_targ='https://docs.google.com/document/d/1LE0Bfidktmo3UZ0ke7gEopL
 ff_targ_text='StART Help - share gdrive'; break; // https://bit.ly/stgdshelp https://codeleftlab.github.io/redir/rdst.htm?t=a45
 case 'a46'	:ff_targ='https://docs.google.com/spreadsheets/d/13DWiBi3YoqeqbjvfOA7yg9dwaCufCnIHUvBSDBd1zxI/edit?usp=sharing';				
 ff_targ_text='StART Housing mix on site'; break; // https://bit.ly/sthmix https://codeleftlab.github.io/redir/rdst.htm?t=a46
+case 'a47'	:ff_targ='https://www.dropbox.com/s/riycs8ywnlvzbge/Finance%20Group%20overview.docx?dl=0';				
+ff_targ_text='StART Finance Group Overview'; break; // https://bit.ly/stfinovw https://codeleftlab.github.io/redir/rdst.htm?t=a47                
                 
-                
-        
-        
+       
     // https://bit.ly
 
 default:sw_targ=false;break;
