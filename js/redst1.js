@@ -54,8 +54,10 @@ case 'a47'	:ff_targ='https://www.dropbox.com/s/riycs8ywnlvzbge/Finance%20Group%2
 ff_targ_text='StART Finance Group Overview'; break; // https://bit.ly/stfinovw https://codeleftlab.github.io/redir/rdst.htm?t=a47                
 case 'a48'	:ff_targ='https://drive.google.com/file/d/14jkaFFQ9m31wr9tUgBJ1q8-kRmwqOGPS/view?usp=sharing';				
 ff_targ_text='StART 20-18 Pass Fails and Weightings '; break; // https://bit.ly/stpassfail8 https://codeleftlab.github.io/redir/rdst.htm?t=a48                  
+case 'a49'	:ff_targ='https://drive.google.com/file/d/1Z4lCUqPWdSvSaFf9lZqekrGI_JHgFDtj/view?usp=sharing';				
+ff_targ_text='StART Finance Group Task List '; break; // https://bit.ly/stfgtl https://codeleftlab.github.io/redir/rdst.htm?t=a49                  
        
-    // https://bit.ly
+    // https://bit.ly  
 
 default:sw_targ=false;break;
 }
