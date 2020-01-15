@@ -59,7 +59,9 @@ ff_targ_text='StART Finance Group Task List '; break; // https://bit.ly/stfgtl h
 case 'a50'	:ff_targ='https://www.dropbox.com/sh/wozzp1tizpqr6nz/AAD_beSlKhjihcPdvrwofQHpa?dl=0';				
 ff_targ_text='StART GLA Documents'; break; // https://bit.ly/stdocs-gla https://codeleftlab.github.io/redir/rdst.htm?t=a50 
 case 'a51'	:ff_targ='https://www.dropbox.com/s/2ezrlo8ehyx1v8d/Grant%20Applications%20%20-%20Overview.xlsx?dl=0';				
-ff_targ_text='StART Finance Group grants'; break; // https://bit.ly/stdocs-grants https://codeleftlab.github.io/redir/rdst.htm?t=a51        
+ff_targ_text='StART Finance Group grants'; break; // https://bit.ly/stdocs-grants https://codeleftlab.github.io/redir/rdst.htm?t=a51 
+case 'a52'	:ff_targ='https://docs.google.com/spreadsheets/d/1BY_-nRtz8qN1071-uDHlrpdMPo3YTFfb45G63woJ5pA/edit?usp=sharing';				
+ff_targ_text='StART Overview Document'; break; // https://bit.ly/stoverview https://codeleftlab.github.io/redir/rdst.htm?t=a52 
     // https://bit.ly  
 
 default:sw_targ=false;break;
