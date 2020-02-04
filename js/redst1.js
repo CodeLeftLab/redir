@@ -64,6 +64,8 @@ case 'a52'	:ff_targ='https://docs.google.com/spreadsheets/d/1BY_-nRtz8qN1071-uDH
 ff_targ_text='StART Overview Document'; break; // https://bit.ly/stoverview https://codeleftlab.github.io/redir/rdst.htm?t=a52 
 case 'a53'	:ff_targ='https://www.dropbox.com/s/md4ula2wzaaljok/StART%20group%20contact%202018-09-15%20editable%20version.xlsx?dl=0';				
 ff_targ_text='StART Affiliated Orgs\groups'; break; // https://bit.ly/storgsaff https://codeleftlab.github.io/redir/rdst.htm?t=a53 
+case 'a54'	:ff_targ='https://docs.google.com/spreadsheets/d/1BhAt4-tvG9jp-yp_C1hpW9e44TzJQmUQVUk_9aesAbQ/edit?usp=sharing';				
+ff_targ_text='StART Finance Info (protected)'; break; // https://bit.ly/stfininfo https://codeleftlab.github.io/redir/rdst.htm?t=a54 
         // https://bit.ly  
 
 default:sw_targ=false;break;
