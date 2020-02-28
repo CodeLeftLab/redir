@@ -68,8 +68,8 @@ case 'a54'	:ff_targ='https://docs.google.com/spreadsheets/d/1BhAt4-tvG9jp-yp_C1h
 ff_targ_text='StART Finance Info (protected)'; break; // https://bit.ly/stfininfo https://codeleftlab.github.io/redir/rdst.htm?t=a54 
 case 'a55'	:ff_targ='https://www.dropbox.com/s/elum8gq6xp999dg/StART%20-%20record%20of%20printing%20etc%20services%20used.xlsx?dl=0';				
 ff_targ_text='StART Finance Info (protected)'; break; // https://bit.ly/stservice https://codeleftlab.github.io/redir/rdst.htm?t=a55 
-case 'a56'	:ff_targ='https://docs.google.com/document/d/1HFsEmLmGKusyBnO_XqpQr_VtPyQHpDC2WxzjIDkZ9wE/edit?usp=sharing;				
-ff_targ_text='St Anns Hospital developement - local community voice'; break; // https://bit.ly/stadcv https://codeleftlab.github.io/redir/rdst.htm?t=a56  
+case 'a56'	:ff_targ='https://docs.google.com/document/d/1HFsEmLmGKusyBnO_XqpQr_VtPyQHpDC2WxzjIDkZ9wE/edit?usp=sharing';				
+ff_targ_text='St Anns Hospital development - local community voice'; break; // https://bit.ly/stadcv https://codeleftlab.github.io/redir/rdst.htm?t=a56  
 
         // https://bit.ly  
 
