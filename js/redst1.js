@@ -1,7 +1,9 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
 // StART  // bit.ly/stxxx http://codeleftlab.github.io/redir/rdst.htm?t=a22 
 case 'a22'	:ff_targ='https://drive.google.com/open?id=1IwtJy4tBq9snRfzZWb-8ITdwvmVwAn0m';				
-ff_targ_text='Healthy Streets St Anns - pitch'; break; // http://bit.ly/hestap2 https://codeleftlab.github.io/redir/rdst.htm?t=a22					
+ff_targ_text='Healthy Streets St Anns - pitch'; break; // http://bit.ly/hestap2 https://codeleftlab.github.io/redir/rdst.htm?t=a22
+case 'a222'	:ff_targ='https://drive.google.com/open?id=1IwtJy4tBq9snRfzZWb-8ITdwvmVwAn0m';				
+ff_targ_text='Healthy Streets St Anns - web'; break; // http://bit.ly/hestaweb https://codeleftlab.github.io/redir/rdst.htm?t=a222                
 case 'a23'	:ff_targ='https://www.dropbox.com/s/713ecd99yu4ute6/190610Change%20of%20Use%20to%20B1.pdf?dl=0';				
 ff_targ_text='StART Change of Use submission'; break; // http://bit.ly/stmumhcu https://codeleftlab.github.io/redir/rdst.htm?t=a23	
 case 'a24'	:ff_targ='https://www.dropbox.com/s/gc2ahy6hw6fri0f/181101Baseline%20Ecological%20Surveys.docx?dl=0';				
