@@ -72,6 +72,8 @@ case 'a55'	:ff_targ='https://www.dropbox.com/s/elum8gq6xp999dg/StART%20-%20recor
 ff_targ_text='StART Finance Info (protected)'; break; // https://bit.ly/stservice https://codeleftlab.github.io/redir/rdst.htm?t=a55 
 case 'a56'	:ff_targ='https://docs.google.com/document/d/1HFsEmLmGKusyBnO_XqpQr_VtPyQHpDC2WxzjIDkZ9wE/edit?usp=sharing';				
 ff_targ_text='St Anns Hospital development - local community voice'; break; // https://bit.ly/stadcv https://codeleftlab.github.io/redir/rdst.htm?t=a56  
+case 'a57'	:ff_targ='https://docs.google.com/document/d/1xZXJ0JEbywAq5Zuc9xJI6HqhvXfUqS52-fHaIaHjqUw/edit?usp=sharing';				
+ff_targ_text='Strategy Living Document'; break; // https://bit.ly/stalive https://codeleftlab.github.io/redir/rdst.htm?t=a57  
 
         // https://bit.ly  
 
