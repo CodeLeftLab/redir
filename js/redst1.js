@@ -74,11 +74,10 @@ case 'a56'	:ff_targ='https://docs.google.com/document/d/1HFsEmLmGKusyBnO_XqpQr_V
 ff_targ_text='St Anns Hospital development - local community voice'; break; // https://bit.ly/stadcv https://codeleftlab.github.io/redir/rdst.htm?t=a56  
 case 'a57'	:ff_targ='https://docs.google.com/document/d/1xZXJ0JEbywAq5Zuc9xJI6HqhvXfUqS52-fHaIaHjqUw/edit?usp=sharing';
 ff_targ_text='Strategy Living Document'; break; // https://bit.ly/stlivedoc https://codeleftlab.github.io/redir/rdst.htm?t=a57  
-case 'a58'	:ff_targ='unused';
-ff_targ_text='Strategy Living Document'; break; // https://bit.ly/stxxxx https://codeleftlab.github.io/redir/rdst.htm?t=a58 
-case 'a59'	:ff_targ='unused';
-ff_targ_text='Strategy Living Document'; break; // https://bit.ly/styyyy https://codeleftlab.github.io/redir/rdst.htm?t=a59 
-        // https://bit.ly  
+case 'a58'	:ff_targ='https://docs.google.com/spreadsheets/d/1PBfgiywV3OPYi8FFKW0Y-AFFEpi0f6hBqM1cee6ALoI/edit?usp=sharing';
+ff_targ_text='StART Accounts Journal'; break; // https://bit.ly/stjour https://codeleftlab.github.io/redir/rdst.htm?t=a58 
+case 'a59'	:ff_targ='2RzBtn8';
+ff_targ_text='Strategy Living Document'; break; // https://bit.ly/2RzBtn8 https://codeleftlab.github.io/redir/rdst.htm?t=a59 
         // https://bit.ly  
               
 
