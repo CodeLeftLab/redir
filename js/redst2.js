@@ -1,8 +1,9 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
 case 'b22'	:ff_targ='https://www.setz.gq';				
 ff_targ_text='forsalehere Forsalehere ForSaleHere'; break; // bit.ly/forsalehere https://codeleftlab.github.io/redir/rdst2.htm?t=b22					
-case 'b23'	:ff_targ='2V5wTzd';				
-ff_targ_text='tttttttttttttt'; break; // http://bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b23	
+case 'b23'	:ff_targ='https://fgmenu.around.gq';				
+ff_targ_text='Finance Group Menu'; break; // http://bit.ly/stfgmenu https://codeleftlab.github.io/redir/rdst2.htm?t=b23	
+    ///////////////////////////
 case 'b24'	:ff_targ='3ekA9Ow';				
 ff_targ_text='tttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b24					
 case 'b25'	:ff_targ='done';				
