@@ -1,4 +1,4 @@
-var referrer = document.referrer; var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {// http://codeleftlab.github.io/redir/rd.htm?
+var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {// http://codeleftlab.github.io/redir/rd.htm?
 // StART  // bit.ly/stxxx http://codeleftlab.github.io/redir/rd.htm?t=st2x //bit.ly/sthist goes directly to my gsheet
 case 'st22'    :ff_targ='https://www.dropbox.com/s/l16gvk9mq8jh8l4/StART%20Timeline.xlsx?dl=0';
 ff_targ_text='StART History';  break; // bit.ly/starch22 http://codeleftlab.github.io/redir/rd.htm?t=st22
@@ -217,7 +217,7 @@ case 'tw77'    :ff_targ='http://islingtontreewardens.org.uk/wp-admin';	ff_targ_t
 
 default:sw_targ=false;break;
 }
-switch(sw_targ) {case 'true': window.location.href=ff_targ; document.write('<meta http-equiv="refresh" content="1;url='+ff_targ+'"><title>'+ff_targ_text+'</title>');break;
+switch(sw_targ) {case true: window.location.href=ff_targ; document.write('<meta http-equiv="refresh" content="1;url='+ff_targ+'"><title>'+ff_targ_text+'</title>');break;
 default:                      document.write('There may have been an error - no action possible:'+ff_targ+' '+referrer);break;}
 //
 function querySt(Key) {var url = window.location.href; KeysValues = url.split(/[\?&]+/);
