@@ -93,7 +93,7 @@ case 'sz22'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUp
                 break; // drive-public-2show bit.ly/sz2show http://codeleftlab.github.io/redir/rd.htm?t=sz22
 case 'sz66'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUpJbXV2dGl5bDA'; ff_targ_text='Chris 2show';  
                 break; // bit.ly/2KVOGW2 http://codeleftlab.github.io/redir/rd.htm?t=sz66
-case 'szm22'    :ff_targ='http://google.co.uk/search?q='+referrer; ff_targ_text='Chris Pers Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
+case 'szm22'    :sw_targ=false;ff_targ='http://google.co.uk/search?q='+referrer; ff_targ_text='Chris Pers Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
                 break; // bit.ly/zoom-22me bit.ly/csmeetme CSMEETME CSmeetme csMEETme http://codeleftlab.github.io/redir/rd.htm?t=szm22
 /* ============ end of sz section ========================== */ 
 case 'au11'   :ff_targ='rdetails/shortlinks/AllShortLinks.htm'; ff_targ_text='Index of Short Links';  break; 
@@ -217,8 +217,9 @@ case 'tw77'    :ff_targ='http://islingtontreewardens.org.uk/wp-admin';	ff_targ_t
 
 default:sw_targ=false;break;
 }
-if (sw_targ==true) {window.location.href=ff_targ; document.write('<meta http-equiv="refresh" content="1;url='+ff_targ+'"><title>'+ff_targ_text+'</title>'); }
-else {document.write('There may have been an error - no action possible:'+ff_targ);}
+switch(sw_targ) {case 'true': window.location.href=ff_targ; document.write('<meta http-equiv="refresh" content="1;url='+ff_targ+'"><title>'+ff_targ_text+'</title>');break;
+default:                      document.write('There may have been an error - no action possible:'+ff_targ+' '+referrer);break;}
+//
 function querySt(Key) {var url = window.location.href; KeysValues = url.split(/[\?&]+/);
 for (i = 0; i < KeysValues.length; i++) {KeyValue = KeysValues[i].split("="); if (KeyValue[0] == Key) {return KeyValue[1];}}}
 
