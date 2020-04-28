@@ -93,7 +93,7 @@ case 'sz22'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUp
                 break; // drive-public-2show bit.ly/sz2show http://codeleftlab.github.io/redir/rd.htm?t=sz22
 case 'sz66'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUpJbXV2dGl5bDA'; ff_targ_text='Chris 2show';  
                 break; // bit.ly/2KVOGW2 http://codeleftlab.github.io/redir/rd.htm?t=sz66
-case 'szm22'    :sw_targ=false;ff_targ='https://us04web.zoom.us/j/2721075339'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
+case 'szm22'    :ff_targ='https://us04web.zoom.us/j/2721075339'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
                 break; // bit.ly/zoom-22me bit.ly/csmeetme CSMEETME CSmeetme csMEETme http://codeleftlab.github.io/redir/rd.htm?t=szm22
 /* ============ end of sz section ========================== */ 
 case 'au11'   :ff_targ='rdetails/shortlinks/AllShortLinks.htm'; ff_targ_text='Index of Short Links';  break; 
