@@ -1,4 +1,4 @@
-var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {// http://codeleftlab.github.io/redir/rd.htm?
+var referrer = document.referrer; var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {// http://codeleftlab.github.io/redir/rd.htm?
 // StART  // bit.ly/stxxx http://codeleftlab.github.io/redir/rd.htm?t=st2x //bit.ly/sthist goes directly to my gsheet
 case 'st22'    :ff_targ='https://www.dropbox.com/s/l16gvk9mq8jh8l4/StART%20Timeline.xlsx?dl=0';
 ff_targ_text='StART History';  break; // bit.ly/starch22 http://codeleftlab.github.io/redir/rd.htm?t=st22
@@ -93,7 +93,7 @@ case 'sz22'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUp
                 break; // drive-public-2show bit.ly/sz2show http://codeleftlab.github.io/redir/rd.htm?t=sz22
 case 'sz66'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUpJbXV2dGl5bDA'; ff_targ_text='Chris 2show';  
                 break; // bit.ly/2KVOGW2 http://codeleftlab.github.io/redir/rd.htm?t=sz66
-case 'szm22'    :ff_targ='https://us04web.zoom.us/j/2721075339'; ff_targ_text='Chris Pers Zoom';  
+case 'szm22'    :ff_targ='http://google.co.uk/search?q='+referrer; ff_targ_text='Chris Pers Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
                 break; // bit.ly/zoom-22me http://codeleftlab.github.io/redir/rd.htm?t=szm22
 /* ============ end of sz section ========================== */ 
 case 'au11'   :ff_targ='rdetails/shortlinks/AllShortLinks.htm'; ff_targ_text='Index of Short Links';  break; 
