@@ -1,7 +1,7 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
 case 'b22'	:ff_targ_text='forsalehere Forsalehere ForSaleHere';  ff_targ='https://www.setz.gq'; break; // bit.ly/forsalehere https://codeleftlab.github.io/redir/rdst2.htm?t=b22					
 case 'b23'	: ff_targ_text='Finance Group Menu'; ff_targ='https://fgmenu.around.gq';break;  // http://bit.ly/stfgmenu https://codeleftlab.github.io/redir/rdst2.htm?t=b23	
-case 'b24'	:ff_targ_text='StART Finance Group Shared files area';  ff_targ='3https://drive.google.com/drive/folders/1rn8I3jvmShCZEPgse2yeLo_sH89dYV5_?usp=sharing';break; 
+case 'b24'	:ff_targ_text='StART Finance Group Shared files';  ff_targ='https://drive.google.com/drive/folders/1rn8I3jvmShCZEPgse2yeLo_sH89dYV5_?usp=sharing';break; 
         // bit.ly/stfgfiles https://codeleftlab.github.io/redir/rdst2.htm?t=b24					
 case 'b25'	:ff_targ_text='tttttttttttttt'; ff_targ='done';break; 
         // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b25					
