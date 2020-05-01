@@ -4,8 +4,8 @@ ff_targ_text='forsalehere Forsalehere ForSaleHere'; break; // bit.ly/forsalehere
 case 'b23'	:ff_targ='https://fgmenu.around.gq';				
 ff_targ_text='Finance Group Menu'; break; // http://bit.ly/stfgmenu https://codeleftlab.github.io/redir/rdst2.htm?t=b23	
     ///////////////////////////
-case 'b24'	:ff_targ='3ekA9Ow';				
-ff_targ_text='tttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b24					
+case 'b24'	:ff_targ='3https://drive.google.com/drive/folders/1rn8I3jvmShCZEPgse2yeLo_sH89dYV5_?usp=sharing';				
+ff_targ_text='StART Finance Group Shared files area'; break; // bit.ly/stfgfiles https://codeleftlab.github.io/redir/rdst2.htm?t=b24					
 case 'b25'	:ff_targ='done';				
 ff_targ_text='tttttttttttttt'; break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b25					
 case 'b26'	:ff_targ='done';				
