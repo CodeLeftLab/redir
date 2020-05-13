@@ -11,8 +11,8 @@ case 'ifst33'    :ff_targ='spare';ff_targ_text='spare'; break; // https://codele
     // 2do add this one 'https://inews.co.uk/news/housebuilding-profits-uk-the-economist/'
 /* ===================================================== */    
 default:sw_targ=false;break;}
-switch(sw_targ) {case true: window.location.href=ff_targ; document.write('<meta http-equiv="refresh" content="1;
-url='+ff_targ+'"><title>'+ff_targ_text+'</title>');break;
+switch(sw_targ) {case true: window.location.href=ff_targ; 
+document.write('<meta http-equiv="refresh" content="1"; url="'+ff_targ+'"><title>'+ff_targ_text+'</title>');break;
 default:  document.write('There may have been an error - no action possible:'+ff_targ+' '+referrer);break;}
 //
 function querySt(Key) {var url = window.location.href; KeysValues = url.split(/[\?&]+/);
