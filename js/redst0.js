@@ -96,7 +96,7 @@ case 'sz66'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUp
 case 'szm22'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339
                 break; // bit.ly/zoom-22me zoomish? csmeetme CSMEETME CSmeetme csMEETme http://codeleftlab.github.io/redir/rd.htm?t=szm22
 /* ============ end of sz pers section ========================== */ 
-case 'szb22'    :ff_targ='https://sites.google.com/limecomms.com/lime22/home'; ff_targ_text='Limelight';  
+case 'szb22'    :ff_targ='https://limecomms.gq'; ff_targ_text='Limelight';  
                 break; // bit.ly/thebizsite http://codeleftlab.github.io/redir/rd.htm?t=szb22
 case 'szb33'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
                 break; // bit.ly/ http://codeleftlab.github.io/redir/rd.htm?t=szb33
@@ -108,7 +108,10 @@ case 'szb66'    :ff_targ='unused'; ff_targ_text='Chris Zoom';  //https://us04web
                 break; // bit.ly/ http://codeleftlab.github.io/redir/rd.htm?t=szb66
 /* ============ end of sz biz section ========================== */ 
         
-
+/* ============ DEV section 1 ========================== */
+case 'td22'   :ff_targ='https://FelineIvoryRefactoring--zawert.repl.co'; ff_targ_text='REPL ar test';	break; 
+                // https://bit.ly/testdev22 http://codeleftlab.github.io/redir/rd.htm?t=td22&v=1    
+        ///////////////////
 case 'au11'   :ff_targ='rdetails/shortlinks/AllShortLinks.htm'; ff_targ_text='Index of Short Links';  break; 
                 // http://codeleftlab.github.io/redir/rd.htm?t=au11 bit.ly/szidx
 case 'au22'   :ff_targ='https://docs.google.com/spreadsheets/d/1s8ie6ERnTSGGPq4x89cS2La2yV86mps_ek_ZDwJpJSE/edit?usp=sharing'; 
@@ -140,9 +143,6 @@ case 'au36'   :ff_targ='https://drive.google.com/drive/folders/0B2s8p6HYw2KDUzNt
                 ff_targ_text='Plan4Soho Shared AreaA';	break; // https://bit.ly/shareP4S http://codeleftlab.github.io/redir/rd.htm?t=au32&v=1
 case 'au37'   :ff_targ='rdetails/bridge/currank/index.htm?c=crouchend'; ff_targ_text='Bridge Current Rankings';	break; 
                 // https://bit.ly/brcurrank http://codeleftlab.github.io/redir/rd.htm?t=au37&v=1
-/* ============ DEV section 1 ========================== */
-case 'td22'   :ff_targ='https://FelineIvoryRefactoring--zawert.repl.co'; ff_targ_text='REPL ar test';	break; 
-                // https://bit.ly/testdev22 http://codeleftlab.github.io/redir/rd.htm?t=td22&v=1    
 /* ============ HTH section 1 ========================== */
 case 'au38'   :ff_targ='https://docs.google.com/spreadsheets/d/1no4EYBgokidNkHlloy9OfK3Mv0YVZN7fUTs5cjsgRuc/edit?usp=sharing'; 
                 ff_targ_text='HTH 2016 events';	break; // https://bit.ly/hth16events http://codeleftlab.github.io/redir/rd.htm?t=au38
