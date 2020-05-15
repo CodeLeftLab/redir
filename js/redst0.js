@@ -94,8 +94,21 @@ case 'sz22'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUp
 case 'sz66'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUpJbXV2dGl5bDA'; ff_targ_text='Chris 2show';  
                 break; // bit.ly/2KVOGW2 http://codeleftlab.github.io/redir/rd.htm?t=sz66
 case 'szm22'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
-                break; // bit.ly/zoom-22me bit.ly/csmeetme CSMEETME CSmeetme csMEETme http://codeleftlab.github.io/redir/rd.htm?t=szm22
-/* ============ end of sz section ========================== */ 
+                break; // bit.ly/zoom-22me zoomish? csmeetme CSMEETME CSmeetme csMEETme http://codeleftlab.github.io/redir/rd.htm?t=szm22
+/* ============ end of sz pers section ========================== */ 
+case 'szb22'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
+                break; // bit.ly/thebizsite http://codeleftlab.github.io/redir/rd.htm?t=szb22
+case 'szb33'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
+                break; // bit.ly/ http://codeleftlab.github.io/redir/rd.htm?t=szb33
+case 'szb44'    :ff_targ='unused'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
+                break; // bit.ly/ http://codeleftlab.github.io/redir/rd.htm?t=szb44
+case 'szb55'    :ff_targ='unused'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
+                break; // bit.ly/ http://codeleftlab.github.io/redir/rd.htm?t=szb55
+case 'szb66'    :ff_targ='unused'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
+                break; // bit.ly/ http://codeleftlab.github.io/redir/rd.htm?t=szb66
+/* ============ end of sz biz section ========================== */ 
+        
+
 case 'au11'   :ff_targ='rdetails/shortlinks/AllShortLinks.htm'; ff_targ_text='Index of Short Links';  break; 
                 // http://codeleftlab.github.io/redir/rd.htm?t=au11 bit.ly/szidx
 case 'au22'   :ff_targ='https://docs.google.com/spreadsheets/d/1s8ie6ERnTSGGPq4x89cS2La2yV86mps_ek_ZDwJpJSE/edit?usp=sharing'; 
