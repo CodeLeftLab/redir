@@ -93,10 +93,10 @@ case 'sz22'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUp
                 break; // drive-public-2show bit.ly/sz2show http://codeleftlab.github.io/redir/rd.htm?t=sz22
 case 'sz66'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUpJbXV2dGl5bDA'; ff_targ_text='Chris 2show';  
                 break; // bit.ly/2KVOGW2 http://codeleftlab.github.io/redir/rd.htm?t=sz66
-case 'szm22'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
+case 'szm22'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339
                 break; // bit.ly/zoom-22me zoomish? csmeetme CSMEETME CSmeetme csMEETme http://codeleftlab.github.io/redir/rd.htm?t=szm22
 /* ============ end of sz pers section ========================== */ 
-case 'szb22'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
+case 'szb22'    :ff_targ='https://sites.google.com/limecomms.com/lime22/home'; ff_targ_text='Limelight';  
                 break; // bit.ly/thebizsite http://codeleftlab.github.io/redir/rd.htm?t=szb22
 case 'szb33'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339 http://google.co.uk/search?q=referrer
                 break; // bit.ly/ http://codeleftlab.github.io/redir/rd.htm?t=szb33
