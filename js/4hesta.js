@@ -1,5 +1,5 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('h'); switch(qs) {
-case 'h22'	:ff_targ_text='xxxxx';  ff_targ='https://docs.google.com/document/d/1Cq03guZwsd5UhqCVKFgbiWdLkxUwm4A60EQMcdAPzEk'; break; // bit.ly/hestacg https://codeleftlab.github.io/redir/red4hesta.htm?h=h22					
+case 'h22'	:ff_targ_text='xxxxx';  ff_targ='https://docs.google.com/document/d/1khySk_cvWLl0tNugqsdiK5e0za9V9TGwh7HIk8EVt7w'; break; // bit.ly/hestacg https://codeleftlab.github.io/redir/red4hesta.htm?h=h22					
 case 'h23'	:ff_targ_text='xxxxx'; ff_targ='https://fgmenu.around.gq';break;  // http://bit.ly/xxxx https://codeleftlab.github.io/redir/red4hesta.htm?h=h23	
 case 'h24'	:ff_targ_text='xxxxx';  ff_targ='xxxxxxxxxxxxxx';break; 
         // bit.ly/stfgfiles https://codeleftlab.github.io/redir/red4hesta.htm?h=h24					
