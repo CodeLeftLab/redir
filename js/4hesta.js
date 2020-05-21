@@ -1,4 +1,4 @@
-var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
+var sw_targ=true; var ff_targ=''; var qs= querySt('h'); switch(qs) {
 case 'h22'	:ff_targ_text='xxxxx';  ff_targ='https://www.setz.gq'; break; // bit.ly/xxxx https://codeleftlab.github.io/redir/red4hesta.htm?h=h22					
 case 'h23'	:ff_targ_text='xxxxx'; ff_targ='https://fgmenu.around.gq';break;  // http://bit.ly/xxxx https://codeleftlab.github.io/redir/red4hesta.htm?h=h23	
 case 'h24'	:ff_targ_text='xxxxx';  ff_targ='xxxxxxxxxxxxxx';break; 
