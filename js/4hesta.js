@@ -1,7 +1,7 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
-case 'h22'	:ff_targ_text='xxxxxxxxxxxxxx';  ff_targ='https://www.setz.gq'; break; // bit.ly/xxxx https://codeleftlab.github.io/redir/red4hesta.htm?h=h22					
-case 'h23'	: ff_targ_text='xxxxxxxxx'; ff_targ='https://fgmenu.around.gq';break;  // http://bit.ly/xxxx https://codeleftlab.github.io/redir/red4hesta.htm?h=h23	
-case 'h24'	:ff_targ_text='xxxxxxxxxxxxxxx';  ff_targ='xxxxxxxxxxxxxxxxxxxx';break; 
+case 'h22'	:ff_targ_text='xxxxx';  ff_targ='https://www.setz.gq'; break; // bit.ly/xxxx https://codeleftlab.github.io/redir/red4hesta.htm?h=h22					
+case 'h23'	:ff_targ_text='xxxxx'; ff_targ='https://fgmenu.around.gq';break;  // http://bit.ly/xxxx https://codeleftlab.github.io/redir/red4hesta.htm?h=h23	
+case 'h24'	:ff_targ_text='xxxxx';  ff_targ='xxxxxxxxxxxxxx';break; 
         // bit.ly/stfgfiles https://codeleftlab.github.io/redir/red4hesta.htm?h=h24					
 case 'h25'	:ff_targ_text='tttttttttttttt'; ff_targ='done';break; 
         // bit.ly/xxxxxx https://codeleftlab.github.io/redir/red4hesta.htm?h=h25					
