@@ -1,6 +1,6 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
-case 'he22'	:ff_targ_text='xxxxxxxxxxxxxx';  ff_targ='https://www.setz.gq'; break; // bit.ly/forsalehere https://codeleftlab.github.io/redir/rdst4hesta.htm?h=he22					
-case 'he23'	: ff_targ_text='xxxxxxxxx'; ff_targ='https://fgmenu.around.gq';break;  // http://bit.ly/stfgmenu https://codeleftlab.github.io/redir/rdst4hesta.htm?h=he23	
+case 'he22'	:ff_targ_text='xxxxxxxxxxxxxx';  ff_targ='https://www.setz.gq'; break; // bit.ly/xxxx https://codeleftlab.github.io/redir/rdst4hesta.htm?h=he22					
+case 'he23'	: ff_targ_text='xxxxxxxxx'; ff_targ='https://fgmenu.around.gq';break;  // http://bit.ly/xxxx https://codeleftlab.github.io/redir/rdst4hesta.htm?h=he23	
 case 'he24'	:ff_targ_text='xxxxxxxxxxxxxxx';  ff_targ='xxxxxxxxxxxxxxxxxxxx';break; 
         // bit.ly/stfgfiles https://codeleftlab.github.io/redir/rdst4hesta.htm?h=he24					
 case 'he25'	:ff_targ_text='tttttttttttttt'; ff_targ='done';break; 
