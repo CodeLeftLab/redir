@@ -3,8 +3,8 @@ case 'b22'	:ff_targ_text='forsalehere Forsalehere ForSaleHere';  ff_targ='https:
 case 'b23'	: ff_targ_text='Finance Group Menu'; ff_targ='https://fgmenu.around.gq';break;  // http://bit.ly/stfgmenu https://codeleftlab.github.io/redir/rdst2.htm?t=b23	
 case 'b24'	:ff_targ_text='StART Finance Group Shared files';  ff_targ='https://drive.google.com/drive/folders/1rn8I3jvmShCZEPgse2yeLo_sH89dYV5_?usp=sharing';break; 
         // bit.ly/stfgfiles https://codeleftlab.github.io/redir/rdst2.htm?t=b24					
-case 'b25'	:ff_targ_text='tttttttttttttt'; ff_targ='done';break; 
-        // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b25					
+case 'b25'	:ff_targ_text='StART Community-Led Homes Group Feasibilty Study Aug – Sep 2020'; ff_targ='https://docs.google.com/document/d/1RRcdADCGnX_oEbBM0UK1D-CLnmKM-fTVWoY5OHIVBeQ/edit?usp=sharing';break; 
+        // bit.ly/stclhfeas https://codeleftlab.github.io/redir/rdst2.htm?t=b25					
 case 'b26'	:ff_targ='done'; ff_targ_text='tttttttttttttt'; break; 
         // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b26					
 case 'b27'	:ff_targ_text='tttttttttttttttttt'; ff_targ='done'; break; 
