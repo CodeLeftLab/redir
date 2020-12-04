@@ -93,7 +93,8 @@ case 'sz22'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUp
                 break; // drive-public-2show bit.ly/sz2show http://codeleftlab.github.io/redir/rd.htm?t=sz22
 case 'sz66'    :ff_targ='https://drive.google.com/drive/folders/0B3RwgNtvv_xzMUpJbXV2dGl5bDA'; ff_targ_text='Chris 2show';  
                 break; // bit.ly/2KVOGW2 http://codeleftlab.github.io/redir/rd.htm?t=sz66
-case 'szm22'    :ff_targ='https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09'; ff_targ_text='Chris Zoom';  //https://us04web.zoom.us/j/2721075339
+case 'szm22'    :ff_targ='https://us04web.zoom.us/j/73851492376?pwd=eEpyZVBZRG9JMElsbENZV2xUajdTUT09'; ff_targ_text='Chris Zoom';  
+        // was https://us04web.zoom.us/j/2721075339?pwd=aHBUM2xOTVVjditLcGJMcTZoL3lxQT09
                 break; // bit.ly/zoom-22me zoomish? csmeetme CSMEETME CSmeetme csMEETme http://codeleftlab.github.io/redir/rd.htm?t=szm22
 /* ============ end of sz pers section ========================== */ 
 case 'szb22'    :ff_targ='https://limecomms.gq'; ff_targ_text='Limelight';  
