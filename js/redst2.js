@@ -6,7 +6,7 @@ case 'b24'	:ff_targ_text='StART Finance Group Shared files';  ff_targ='https://d
 case 'b25'	:ff_targ_text='StART Community-Led Homes Group Feasibilty Study Aug – Sep 2020'; ff_targ='https://docs.google.com/document/d/1RRcdADCGnX_oEbBM0UK1D-CLnmKM-fTVWoY5OHIVBeQ/edit?usp=sharing';break; 
         // bit.ly/stclhfeas https://codeleftlab.github.io/redir/rdst2.htm?t=b25					
 case 'b26'	:ff_targ='https://www.livingstreets.org.uk/get-involved/local-groups/haringey'; ff_targ_text='Healthy Streets Bruce Grove & West Green'; break; 
-        // bit.ly/hsbgwg HSBGWG https://codeleftlab.github.io/redir/rdst2.htm?t=b26 bit.ly/HSBGWG https://codeleftlab.github.io/redir/rdst2.htm?t=b26&v1					
+        // https://bit.ly/2ZarQi6 bit.ly/hsbgwg HSBGWG https://codeleftlab.github.io/redir/rdst2.htm?t=b26 bit.ly/HSBGWG https://codeleftlab.github.io/redir/rdst2.htm?t=b26&v1					
 case 'b27'	:ff_targ_text='tttttttttttttttttt'; ff_targ='done'; break; 
         // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdst2.htm?t=b27					
 case 'b28'	:ff_targ_text='tttttttttttttttttt'; ff_targ='bbbbb'; break; 
