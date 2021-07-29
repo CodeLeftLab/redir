@@ -40,7 +40,7 @@ if (sw_targ==true) {document.write('<meta http-equiv="refresh" content="1;url='+
                    window.location.href=ff_targ;}
 else {document.write('There may have been an error - no action possible.');
 switch(qs) {
-case '1'	:document.write('qs=='+qs+'== targ=='+ff_targ+'==');
+case '1'	:document.write('2nd qs=='+qs+'== targ=='+ff_targ+'==');
      break;
      default:document.write('qs=='+qs+'==');break;
 }}
