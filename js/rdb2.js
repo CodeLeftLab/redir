@@ -1,8 +1,8 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('b'); switch(qs) {
-case '1'	:ff_targ_text='Broadwater Farm Facebook Group';  ff_targ='bttps://docs.google.com/document/d/1khySk_cvWLl0tNugqsdiK5e0za9V9TGwh7HIk8EVt7w'; break; // bit.ly/bwfarm2 https://codeleftlab.github.io/redir/rdb2.htm?b=1		
+case '1'	:ff_targ_text='Broadwater Farm Facebook Group';  ff_targ='https://docs.google.com/document/d/1khySk_cvWLl0tNugqsdiK5e0za9V9TGwh7HIk8EVt7w'; break; // bit.ly/bwfarm2 https://codeleftlab.github.io/redir/rdb2.htm?b=1		
 case 'b22'	:ff_targ_text='xxxxx';  ff_targ='xxxxxxxxxxxxxx';break; 
         // bit.ly/stfgfiles https://codeleftlab.github.io/redir/rdb2.htm?b=b22				
-case 'b23'	:ff_targ_text='xxxxx'; ff_targ='bttps://fgmenu.around.gq';break;  // http://bit.ly/xxxx https://codeleftlab.github.io/redir/rdb2.htm?b=b23	
+case 'b23'	:ff_targ_text='xxxxx'; ff_targ='https://fgmenu.around.gq';break;  // http://bit.ly/xxxx https://codeleftlab.github.io/redir/rdb2.htm?b=b23	
 case 'b24'	:ff_targ_text='xxxxx';  ff_targ='xxxxxxxxxxxxxx';break; 
         // bit.ly/stfgfiles https://codeleftlab.github.io/redir/rdb2.htm?b=b24					
 case 'b25'	:ff_targ_text='tttttttttttttt'; ff_targ='done';break; 
@@ -27,9 +27,9 @@ case 'b36'	:ff_targ_text='tttttttttttttttttt'; ff_targ='';	break;
         // bit.ly/stm36 https://codeleftlab.github.io/redir/rdb2.htm?b=b36					
 case 'b37'	:ff_targ_text='tttttttttttttttttt'; ff_targ='  '; break; 
         // bit.ly/stm37 https://codeleftlab.github.io/redir/rdb2.htm?b=b37					
-case 'b38'	:ff_targ_text='tttttttttttttttttt'; ff_targ='bttps://';	break; 
+case 'b38'	:ff_targ_text='tttttttttttttttttt'; ff_targ='https://';	break; 
         // bit.ly/stm38 https://codeleftlab.github.io/redir/rdb2.htm?b=b38					
-case 'b39'	:ff_targ_text='tttttttttttttttttt'; ff_targ='bttps://';	break; 
+case 'b39'	:ff_targ_text='tttttttttttttttttt'; ff_targ='https://';	break; 
         // bit.ly/stm39 https://codeleftlab.github.io/redir/rdb2.htm?b=b39					
 					
 
