@@ -17,10 +17,10 @@ case 'b28'	:ff_targ_text='tttttttttttttttttt'; ff_targ='bbbbb'; break;
         // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdb2.htm?b=b28					
 case 'b29'	:ff_targ_text='tttttttttttttttttt'; ff_targ='bbbbb';break; 
         // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdb2.htm?b=b29					
-case 'b32'	:ff_targ_text='tttttttttttttttttt'; ff_targ='';	
-        break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdb2.htm?t=be32					
-case 'b33'	:ff_targ_text='tttttttttttttttttt'; ff_targ='';	
-        break; // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdb2.htm?b=b33					
+case 'b32'	:ff_targ_text='tttttttttttttttttt'; ff_targ='';	break; 
+        // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdb2.htm?t=be32					
+case 'b33'	:ff_targ_text='tttttttttttttttttt'; ff_targ='';	break; 
+        // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdb2.htm?b=b33					
 case 'b34'	:ff_targ_text='tttttttttttttttttt'; ff_targ=''; break; 
         // bit.ly/stm34 https://codeleftlab.github.io/redir/rdb2.htm?b=b34					
 case 'b35'	:ff_targ_text='tttttttttttttttttt'; ff_targ='';	break; 
@@ -34,7 +34,6 @@ case 'b38'	:ff_targ_text='tttttttttttttttttt'; ff_targ='https://';	break;
 case 'b39'	:ff_targ_text='tttttttttttttttttt'; ff_targ='https://';	break; 
         // bit.ly/stm39 https://codeleftlab.github.io/redir/rdb2.htm?b=b39					
 					
-
 default:sw_targ=false;break;
 }
 if (sw_targ==true) {document.write('<meta http-equiv="refresh" content="1;url='+ff_targ+'"><title>'+ff_targ_text+'</title>');
