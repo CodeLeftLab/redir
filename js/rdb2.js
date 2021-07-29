@@ -42,7 +42,7 @@ else {document.write('There may have been an error - no action possible.');
 switch(qs) {
 case '1'	:document.write('2nd qs=='+qs+'== targ=='+ff_targ+'==');
      break;
-     default:document.write('qs=='+qs+'==');break;
+     default:document.write('3rd qs=='+qs+'==');break;
 }}
 function querySt(Key) {var url = window.location.href; KeysValues = url.split(/[\?&]+/);
 for (i = 0; i < KeysValues.length; i++) {KeyValue = KeysValues[i].split("="); if (KeyValue[0] == Key) {return KeyValue[1];}}}
