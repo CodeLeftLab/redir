@@ -1,5 +1,5 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('b'); switch(qs) {
-case 1	:ff_targ_text='Broadwater Farm Facebook Group';  ff_targ='https://docs.google.com/document/d/1khySk_cvWLl0tNugqsdiK5e0za9V9TGwh7HIk8EVt7w'; break;
+case '1'	:ff_targ_text='Broadwater Farm Facebook Group';  ff_targ='https://docs.google.com/document/d/1khySk_cvWLl0tNugqsdiK5e0za9V9TGwh7HIk8EVt7w'; break;
  // bit.ly/bwfarm2
 // https://codeleftlab.github.io/redir/rdb2.htm?b=1	
 case 'b22'	:ff_targ_text='xxxxx';  ff_targ='https://www.ibm.com';break; 
