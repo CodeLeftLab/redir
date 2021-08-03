@@ -1,5 +1,5 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('b'); switch(qs) {
-case '1'	:ff_targ_text='Broadwater Farm Facebook Group';  ff_targ='https://broadwaterfarm.mailchimpsites.com/'; break;
+case '1'	:ff_targ_text='Broadwater Farm Facebook Group';  ff_targ='https://broadwaterfarm.mailchimpsites.com/welcome'; break;
  // https://bit.ly/bwfarm2 // https://codeleftlab.github.io/redir/rdb2.htm?b=1	
 case 'b22'	:ff_targ_text='xxxxx';  ff_targ='https://www.ibm.com';break; 
         // bit.ly/stfgfiles https://codeleftlab.github.io/redir/rdb2.htm?b=b22				
