@@ -7,7 +7,7 @@ ff_targ_text='RA Manifesto'; break; // http://bit.ly/bwfmanif BWFMANIF https://c
 case 'p24'	:ff_targ='https://www.dropbox.com/s/gc2ahy6hw6fri0f/181101Baseline%20Ecological%20Surveys.docx?dl=0';				
 ff_targ_text='St Env'; break; // bit.ly/stenvsu https://codeleftlab.github.io/redir/rdp.htm?t=p24					
 case 'p25'	:ff_targ='https://zawsx.github.io/bwfopbad-c22/';				
-ff_targ_text='BWF Badminton'; break; // bit.ly/bwfopb https://codeleftlab.github.io/redir/rdp.htm?t=p25					
+ff_targ_text='BWF Badminton'; break; // bit.ly/bwfopb BWFOPBAD https://codeleftlab.github.io/redir/rdp.htm?t=p25					
 case 'p26'	:ff_targ='https://drive.google.com/file/d/1kyLs3m_kse42HqTArgqfIglE3Bgc9N39/view?usp=sharing';				
 ff_targ_text='pppppppppppppppppppp'; break; // bit.ly/stmmcresp https://codeleftlab.github.io/redir/rdp.htm?t=p26					
 case 'p27'	:ff_targ='https://www.dropbox.com/s/8fyp36z9swxskqx/DRAFT%20StART%20principles%20to%20guide%20meanwhile%20use.docx?dl=0';				
