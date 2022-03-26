@@ -4,7 +4,7 @@ case '1'	:ff_targ_text='Broadwater Farm Facebook Group';  ff_targ='https://broad
 case '2'	:ff_targ_text='BWF Gmap';  ff_targ='https://www.google.co.uk/maps/@51.5911706,-0.0814654,467a,35y,39.34t/data=!3m1!1e3';break;
     // bit.ly/bwfgmap https://codeleftlab.github.io/redir/rdb2.htm?b=2			
 case 'b23'	:ff_targ_text='Social Rent Calculator'; ff_targ='https://around-rcalc.netlify.app/';break;  
-    // bit.ly/calcrent  CALCRENT https://codeleftlab.github.io/redir/rdb2.htm?b=b23	
+    // bit.ly/calcmyrent  CALCMYRENT CALCRENT https://codeleftlab.github.io/redir/rdb2.htm?b=b23	
 case 'b24'	:ff_targ_text='xxxxx';  ff_targ='xxxxxxxxxxxxxx';break; 
         // bit.ly/stfgfiles https://codeleftlab.github.io/redir/rdb2.htm?b=b24					
 case 'b25'	:ff_targ_text='tttttttttttttt'; ff_targ='done';break; 
