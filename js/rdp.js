@@ -2,7 +2,7 @@ var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {// http://co
 // StART  // bit.ly/pxxx http://codeleftlab.github.io/redir/rdp.htm?t=p22 
 case 'p22'	:ff_targ='https://docs.google.com/document/d/1yulbyqbAdl5CZECU7tNqjPRgFnVdFQFKLBm2s8qDicw/edit?usp=sharing';				
 ff_targ_text='szhome, where the key is'; break; // http://bit.ly/hestap2 https://codeleftlab.github.io/redir/rdp.htm?t=p22					
-case 'p23'	:ff_targ='https://docs.google.com/document/d/1FKG7koximExlBqAjDZ5nGoRrcrt0yAEtq5pXvVZG2lk/edit?usp=sharing';				
+case 'p23'	:ff_targ='https://docs.google.com/document/d/1Mx3nfxnnGZDKIssmjH5o4ap-IOGW_iQs/edit?usp=sharing&ouid=107836609099303996638&rtpof=true&sd=true';				
 ff_targ_text='RA Manifesto'; break; // http://bit.ly/bwfmanif BWFMANIF https://codeleftlab.github.io/redir/rdp.htm?t=p23	
 case 'p24'	:ff_targ='https://www.dropbox.com/s/gc2ahy6hw6fri0f/181101Baseline%20Ecological%20Surveys.docx?dl=0';				
 ff_targ_text='St Env'; break; // bit.ly/stenvsu https://codeleftlab.github.io/redir/rdp.htm?t=p24					
