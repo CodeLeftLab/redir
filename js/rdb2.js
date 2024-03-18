@@ -7,8 +7,8 @@ case 'b23'	:ff_targ_text='Social Rent Calculator'; ff_targ='https://around-rcalc
     // bit.ly/calcmyrent  CALCMYRENT CALCRENT https://codeleftlab.github.io/redir/rdb2.htm?b=b23	
 case 'b24'	:ff_targ_text='Latest Slides';  ff_targ='https://docs.google.com/presentation/d/1DEkoSJI6fsuOzIXSbPTjViSqCa9yDXjgSamYrXhTQBs/edit?usp=sharing';break; 
         // bit.ly/szslides SZSLIDES https://codeleftlab.github.io/redir/rdb2.htm?b=b24					
-case 'b25'	:ff_targ_text='tttttttttttttt'; ff_targ='done';break; 
-        // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdb2.htm?b=b25					
+case 'b25'	:ff_targ_text='Haringey Housing Residnet-Led Scrutiny Review panel'; ff_targ='https://sites.google.com/view/resident-led';break; 
+        // bit.ly/harsp https://codeleftlab.github.io/redir/rdb2.htm?b=b25					
 case 'b26'	:ff_targ='done'; ff_targ_text='tttttttttttttt'; break; 
         // bit.ly/xxxxxx https://codeleftlab.github.io/redir/rdb2.htm?b=b26					
 case 'b27'	:ff_targ_text='tttttttttttttttttt'; ff_targ='done'; break; 
